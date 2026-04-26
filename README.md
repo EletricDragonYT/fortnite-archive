@@ -18,7 +18,9 @@ How to View CL Versions
 How to View Hotfixes: `C:\Users\{user}\AppData\Local\FortniteGame\Saved\PersistentDownloadDir\EMS`
 
 ## External Links
-Build Archives
+All download ranges should be taken with a grain of salt, many builds are lost, unavailable and/or gatekept from the public.
+
+Windows Build Archives
 - [ElectricArchive - Me](https://archive.org/details/@electric_dragon155/uploads?sort=title&and%5B%5D=subject%3A%22Windows+Fortnite%22): Downloads for Online Test 6.5 - Season 11, v14.60, Season 24 and Season 34 - Season 39.
 - [FortForge - Jalen and Pakked](https://fortforge.dev/builds): Downloads for Online Test 6.5 - Season 40. Includes AES Keys, Mapping Files, UE Versions and Build Dates.
 - [Repressoh - Alberto](https://fn-builds.repressoh.it): Downloads for Online Test 6.5 - Season 40.
@@ -33,6 +35,49 @@ Build Archives
 - [Fortnite-Builds - notsamicc (Currently Down)](https://github.com/notsamicc/Fortnite-Builds): Downloads for Online Test 6.5 - Season 7. Includes UE Versions and Build Dates.
 - [Carbon Builds - Carbon Team](https://builds.cbn.lol/builds): Downloads for Pre-Season - Season 30.
 
+Windows Manifest Archives
+- [ElectricArchive - Me](https://archive.org/details/@electric_dragon155/uploads?sort=title&and%5B%5D=subject%3A%22Fortnite+Manifests%22): Downloads for Season 3 - Season 11, and Season 24.
+- [fn-releases - Polynite](https://github.com/polynite/fn-releases): Downloads for Season 1 - Season 40. Includes Net CLs, UE Versions and Build Dates
+- [FortniteManifestArchive - VastBlast](https://github.com/VastBlast/FortniteManifestArchive): Downloads for Season 2 - Season 21.
+
+UEFN Archives
+- [ElectricArchive - Me](https://archive.org/details/@electric_dragon155/uploads?sort=title&and%5B%5D=subject%3A%22Fortnite%3A+UEFN%22): Downloads for Season 24.
+- [FortForge - Jalen and Pakked](https://fortforge.dev/builds): Downloads for Season 24 - Season 40.
+
+UEFN Manifest Archives
+- [ElectricArchive - Me](https://archive.org/details/@electric_dragon155/uploads?sort=title&and%5B%5D=subject%3A%22Fortnite%3A+UEFN+Manifests%22): Downloads for Season 24.
+- [UEFN-releases - Mast3rGamers](https://github.com/Mast3rGamers/UEFN-releases): Downloads for Season 24 - Season 40.
+
+China Build and Installer Archives
+- [Tencent-Fortnite-China-Archive - KPMisParrot](https://github.com/KPMisParrot/Tencent-Fortnite-China-Archive): Downloads for Season 5 - Season 18.
+- [Fortnite-China-Archive - simonhxd](https://github.com/simonhxd/Fortnite-China-Archive): Downloads for Season 5 - Season 18.
+
+MacOS Build Archives
+- [Repressoh - Alberto](https://fn-builds.repressoh.it/MacBuilds/): Downloads for v3.1-3915963 and v7.00.
+
+Xbox Build and .xvc Archives
+- [FortniteXboxBuilds - Xader726](https://github.com/Xader726/FortniteXboxBuilds): Downloads for Online Test 11.0.?-CL-3472997 - Season 38.
+- [fortnite-xbox-one-dumps - somexboxdumps](https://archive.org/download/fortnite-xbox-one-dumps): Downloads for Online Test 11.0.?-CL-3472997 - Season 10
+
+PlayStation Build and .pkg Archives
+- [CUSA07022 - orbispatches](https://orbispatches.com/CUSA07022) (US): Downloads for Season 0 - Season 39.<sup>.pkg only</sup>
+- [CUSA07669 - orbispatches](https://orbispatches.com/CUSA07669) (EU): Downloads for Season 0 - Season 39.<sup>.pkg only</sup>
+- [FortnitePS4ArchiveBuild - YorhaX2P](https://github.com/YorhaX2P/FortnitePS4ArchiveBuild): Downloads for Season 0 and Season 1.<sup>.pkg only</sup>
+- [CUSA07574 - orbispatches](https://orbispatches.com/CUSA07574): Download for Online Test 10 / MailApp.<sup>.pkg only</sup>
+- [fortnite-mailapp-ot10 - galaxify](https://archive.org/details/fortnite-mailapp-ot10): Download for Online Test 10 / MailApp
+
+Android .apk Archives
+- [FortniteAndroidBuilds - andr1ww](https://github.com/andr1ww/FortniteAndroidBuilds): Downloads for Season 5 - Season 21.
+
+IOS Build and .ipa Archives
+- [Repressoh - Alberto](https://fn-builds.repressoh.it/IPAs/): Downloads for Season 3 - Season 13.<sup>.ipa only</sup>
+- [FNiOS-Archive - Crunnie](https://github.com/Crunnie/FNiOS-Archive): Downloads for Season 3 - Season 13.<sup>.ipa only</sup>
+- [FN-IOS-Archive - mtbr29](https://github.com/mtbr29/FN-IOS-Archive): Downloads for Season 3 - Season 13.
+
+Switch .nsp Archives
+- [Repressoh - Alberto](https://fn-builds.repressoh.it/Switch/): Downloads for Season 4 - Season 19 and Base
+- [FortniteSwitchBuilds - n6617x](https://github.com/n6617x/FortniteSwitchBuilds): Downloads for Season 4 - Season 19 and Base
+
 ## Tables
 - Build: The version and changelist (CL) from `LogInit: Build:`, obtained from the CrashReportClient log file.
 - Manifest: A download link to the corresponding manifest file.
@@ -42,3 +87,43 @@ Build Archives
 - - The builds CL is the primary UE version, therefor the range is roughly this; `Compatible UE Version - UE Version`.
 - Net CL: The network changelist from `LogInit: Net CL:`, obtained from the CrashReportClient log file.
 - Build Date: The compilation date from `LogInit: Compiled (64-bit):`, obtained from the CrashReportClient log file.
+
+## Credits
+There is a lack of credits here, this isn't because I'm selfish but because the origin of a build varies heavily. Strictly speaking, all builds originate from Epic Games, the developers and publishers of Fortnite. 
+However, that isn't where modern day downloads to builds before v24.20 originate from anymore. Below is a sort of extension of the external links section, and many familiar names will popup.
+- Alberto
+- andr1ww
+- ByZNexus
+- Carbon Team
+- chipset808
+- Crunnie
+- [evan_runner](https://archive.org/details/@evan_runner): OT11.??-Cert-CL-3532353
+- galaxify
+- Helix-Dev-Q: Their archive mentions more people
+- itztiva
+- Jalen
+- Ka Pum: v19.01-CL-18489740
+- KPMisParrot
+- LlamaQwerty: Their archive used to mention more people
+- Mast3rGamers
+- mtbr29
+- n6617x
+- notsamicc: Decided they were better than us and left
+- orbispatches
+- Pakked
+- Polynite
+- Ralzify: Decided they were better than us and left
+- simonhxd
+- somexboxdumps
+- VastBlast
+- Xader726
+- YorhaX2P
+
+- Unknown (builds.rebootfn.org): v1.7.2-Cert-CL-3700114 - v10.31-CL-8723043, minus some exceptions
+- Unknown (cdn.cbn.lol): v12.41-CL-12905909, v18.10-CL-17661844 and v18.20-CL-17745267, v20.30-CL-19950687, and v21.20-CL-20978394
+- Unknwon (public-build-archives-bucket.erafn.dev): v5.41-CL-4363240 and v6.21-CL-4526925
+- Unknown (public.simplyblk.xyz - Currently Down): Online Test 6.5, v1.7.2-Cert-CL-3700114 - v23.50-CL-24441668, minus lost and unavailable builds
+- Unknown (r2.kovryn.xyz - Currently Down): v23.50-CL-24441668
+- Unknown (r2.ploosh.dev): v15.30-CL-15341163 and v21.00-CL-20463113
+- Unknown (titanac.xyz): v23.50-CL-24441668
+- Varies ([Internet Archive](https://archive.org/)): The Internet Archive has builds from many seasons.
