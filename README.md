@@ -34,7 +34,7 @@ How to View CL Versions
   - In sysinternals, find and double click `FortniteClient-Win64-Shipping.exe` -> Strings -> Save
   - In the saved .txt file, search for "-CL"
     - Must be done quickly if the file opens the Epic Games launcher, closing `FortniteClient-Win64-Shipping.exe`.
-- FortniteClient-Win64-Shipping<sup>(Only Works From: v5.?? - v6.31-CL-4573279)</sup>
+- FortniteClient-Win64-Shipping<sup>(Only v5.21-CL-4288479 - v6.31-CL-4573279)</sup>
   - Doule click `Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe` -> top middle of the login screen
 
 How to View Hotfixes: `C:\Users\{user}\AppData\Local\FortniteGame\Saved\PersistentDownloadDir\EMS`
