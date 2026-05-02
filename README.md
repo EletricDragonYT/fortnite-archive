@@ -2,28 +2,29 @@
 ## Navigation
 - Available Builds
   - [Windows](/Available/Windows%20Archive.md)
-  - UEFN
-  - MacOS
-  - Xbox
-  - PlayStation
-  - Switch
-  - Android
-  - IOS
+  - [UEFN](/Available/UEFN%20Archive.md)
+  - [MacOS](/Available/MacOS%20Archive.md)
+  - [Xbox](/Available/Xbox%20Archive.md)
+  - [PlayStation](/Available/PlayStation%20Archive.md)
+  - [Switch](/Available/Switch%20Archive.md)
+  - [Android](/Available/Android%20Archive.md)
+  - [IOS](/Available/IOS%20Archive.md)
 
 - Unavailable Builds
   - [Windows](/Unavailable/Windows%20Archive.md)
-  - UEFN
-  - MacOS
-  - Xbox
-  - PlayStation
-  - Switch
-  - Android
-  - IOS
+  - [UEFN](/Unavailable/UEFN%20Archive.md)
+  - [MacOS](/Unavailable/MacOS%20Archive.md)
+  - [Xbox](/Unavailable/Xbox%20Archive.md)
+  - [PlayStation](/Unavailable/PlayStation%20Archive.md)
+  - [Switch](/Unavailable/Switch%20Archive.md)
+  - [Android](/Unavailable/Android%20Archive.md)
+  - [IOS](/Unavailable/IOS%20Archive.md)
 
 ## General Information
 [Legendary and Manifest Download Tutorial](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE)
 
-How to View CL Versions
+How to View Hotfixes: `C:\Users\{user}\AppData\Local\FortniteGame\Saved\PersistentDownloadDir\EMS`<br/>
+How to View CL Versions:
 - CrashReportClient<sup>(Exceptions: v5.00 - v6.31-CL-4573279, v9.10-CL-6639283, and v11.40-CL-11039906)</sup>
   - Open `Fortnite\Engine\Binaries\Win64` -> right click CrashReportClient -> Properties -> Details -> Product Version
   - Open `Fortnite\Engine\Binaries\Win64` -> right click CrashReportClientEditor -> Properties -> Details -> Product Version
@@ -37,15 +38,13 @@ How to View CL Versions
 - FortniteClient-Win64-Shipping<sup>(Only v5.21-CL-4288479 - v6.31-CL-4573279)</sup>
   - Doule click `Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe` -> top middle of the login screen
 
-How to View Hotfixes: `C:\Users\{user}\AppData\Local\FortniteGame\Saved\PersistentDownloadDir\EMS`
-
 ## Tables
 - Build: The version and changelist (CL) from `LogInit: Build:`, obtained from the CrashReportClient log file.
 - Manifest: A file used to install a corresponding build.
 - Mapping: A file used within FModel to view the names and structure of files within a build.
 - AES Keys: A key or collection of keys used within FModel to decrypt .pak files.
-- Unreal Engine: The UE version from `LogInit: Compatible Engine Version:`, obtained from the CrashReportClient log file.
-- - The builds CL is the primary UE version, therefor the range is this; `Compatible UE Version` - `UE Version`.
+- Unreal Engine: The UE versions from `LogInit: Engine Version:` and `LogInit: Compatible Engine Version:`, obtained from the CrashReportClient log file.
+- - The builds CL is the primary UE version, if two UE versions are present, the compatible engine version is on the bottom.
 - Net CL: The network changelist from `LogInit: Net CL:`, obtained from the CrashReportClient log file.
 - Build Date: The compilation date from `LogInit: Compiled (64-bit):`, obtained from the CrashReportClient log file.
 
@@ -142,10 +141,10 @@ However, that isn't where modern day downloads to builds before v24.20 originate
 - YorhaX2P
 
 
-- Unknown (builds.rebootfn.org): v1.7.2-Cert-CL-3700114 - v10.31-CL-8723043, minus some exceptions
+- Unknown (builds.rebootfn.org): v1.7.2-Cert-CL-3700114 - v10.31-CL-8723043
 - Unknown (cdn.cbn.lol): v12.41-CL-12905909, v18.10-CL-17661844 and v18.20-CL-17745267, v20.30-CL-19950687, and v21.20-CL-20978394
 - Unknwon (public-build-archives-bucket.erafn.dev): v5.41-CL-4363240 and v6.21-CL-4526925
-- Unknown (public.simplyblk.xyz - Currently Down): Online Test 6.5, v1.7.2-Cert-CL-3700114 - v23.50-CL-24441668, minus lost and unavailable builds
+- Unknown (public.simplyblk.xyz - Currently Down): Online Test 6.5, v1.7.2-Cert-CL-3700114 - v23.50-CL-24441668
 - Unknown (r2.kovryn.xyz - Currently Down): v23.50-CL-24441668
 - Unknown (r2.ploosh.dev): v15.30-CL-15341163 and v21.00-CL-20463113
 - Unknown (titanac.xyz): v23.50-CL-24441668
