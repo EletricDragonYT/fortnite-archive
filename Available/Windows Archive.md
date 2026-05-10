@@ -105,7 +105,7 @@
 | 4.4-CL-4117433 | [Download](https://archive.org/download/fn-v4-archive/builds/4.4-CL-4117433.7z)<sup>[22.2GB, 7.65GB .7z]</sup> |  | 4.20.0-4117433 | 4108606 | 2018/06/07 |
 | 4.4-CL-4127312 | [Download](https://archive.org/download/fn-v4-archive/builds/4.4-CL-4127312.7z)<sup>[22.3GB, 7.7GB .7z]</sup> |  | 4.20.0-4127240 | 4108606 | 2018/06/13 |
 | 4.5-CL-4159770 | [Download](https://archive.org/download/fn-v4-archive/builds/4.5-CL-4159770.7z)<sup>[23GB, 7.94GB .7z]</sup> |  | 4.20.0-4159770 | 4148992 | 2018/06/25 |
-| 4.5-CL-4166199 | [Download](https://archive.org/download/fn-v4-archive/builds/4.5-CL-4166199.7z)<sup>[23.2GB, 8.01GB .7z]</sup> |  | 4.20.0-4166199<br/>4.20.0-4166025 | 4148992 | 2018/06/27 |
+| 4.5-CL-4166199 | [Download](https://archive.org/download/fn-v4-archive/builds/4.5-CL-4166199.7z)<sup>[23.2GB, 8.01GB .7z]</sup> |  | 4.20.0-4166025 | 4148992 | 2018/06/27 |
 
 ## Season 5
 - Season: Season 5
