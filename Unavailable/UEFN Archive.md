@@ -1,3 +1,8 @@
+# UEFN Archive
+- Builds: 8
+- Manifests: 7<sup>[7.79MB]</sup>
+- Mappings: 0
+
 ## Season 23
 - Season: Chapter 4: Season 1
 - Builds: 1
@@ -6,7 +11,7 @@
 
 |  | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - |
-| 23.00-CL-23344627<sup>[[1](#references)]</sup> |  | 5.1.0-??????? |  | 2022/??/?? |
+| 23.00-CL-23344627<sup>[[1](#references)]</sup> |  | 5.1.0-23344627 | 23047124 | 2022/12/01 |
 
 ## Season 24
 - Season: Chapter 4: Season 2
