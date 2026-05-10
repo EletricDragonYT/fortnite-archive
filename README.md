@@ -3,22 +3,22 @@
 - Available Builds
   - [Windows](/Available/Windows%20Archive.md)
   - [UEFN](/Available/UEFN%20Archive.md)
-  - [MacOS](/Available/MacOS%20Archive.md)
+  <!--- [MacOS](/Available/MacOS%20Archive.md) -->
   - [Xbox](/Available/Xbox%20Archive.md)
   - [PlayStation](/Available/PlayStation%20Archive.md)
-  - [Switch](/Available/Switch%20Archive.md)
+  <!--- [Switch](/Available/Switch%20Archive.md)
   - [Android](/Available/Android%20Archive.md)
-  - [IOS](/Available/IOS%20Archive.md)
+  - [IOS](/Available/IOS%20Archive.md)-->
 
 - Unavailable Builds
   - [Windows](/Unavailable/Windows%20Archive.md)
   - [UEFN](/Unavailable/UEFN%20Archive.md)
-  - [MacOS](/Unavailable/MacOS%20Archive.md)
+  <!--- [MacOS](/Unavailable/MacOS%20Archive.md)
   - [Xbox](/Unavailable/Xbox%20Archive.md)
   - [PlayStation](/Unavailable/PlayStation%20Archive.md)
   - [Switch](/Unavailable/Switch%20Archive.md)
   - [Android](/Unavailable/Android%20Archive.md)
-  - [IOS](/Unavailable/IOS%20Archive.md)
+  - [IOS](/Unavailable/IOS%20Archive.md)-->
 
 ## General Information
 [Legendary and Manifest Download Tutorial](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE)
