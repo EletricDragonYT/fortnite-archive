@@ -2,6 +2,7 @@
 - Builds: 8
 - Manifests: 7<sup>[7.79MB]</sup>
 - Mappings: 0
+- AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive)
 
 ## Season 23
 - Season: Chapter 4: Season 1
