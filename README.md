@@ -109,6 +109,16 @@ Switch .nsp Archives
 - [Repressoh - Alberto](https://fn-builds.repressoh.it/Switch/): Season 4 - Season 19 and Base
 - [FortniteSwitchBuilds - n6617x](https://github.com/n6617x/FortniteSwitchBuilds): Season 4 - Season 19 and Base
 
+AES Keys
+- [fortnite-aes-archive - dippyshere](https://github.com/dippyshere/fortnite-aes-archive): Pre-Season - Season 40
+
+Mapping Files
+- [Fortnite - Orsion](https://github.com/Orsion/Fortnite/tree/main/.usmap): Season 14 - Season 38
+- [Unreal-Mappings-Archive - TheNaeem](https://github.com/TheNaeem/Unreal-Mappings-Archive/tree/main/Fortnite): Season 14 - Season 21
+
+SDKs
+- [Fortnite-SDKs - ggsplayz](https://github.com/ggsplayz/Fortnite-SDKs): Season 4 -Season 18
+
 ## Credits
 There is a lack of credits here, this isn't because I'm selfish but because the origin of a build varies heavily. Strictly speaking, all builds originate from Epic Games, the developers and publishers of Fortnite. 
 However, that isn't where modern day downloads to builds before v24.20 originate from anymore. Below is a sort of extension of the external links section, and many familiar names will popup.
