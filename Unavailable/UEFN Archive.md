@@ -11,7 +11,7 @@
 ## Season 24
 - Season: Chapter 4: Season 2
 - Builds: 7
-- Manifests: 7<sup>[MB]</sup>
+- Manifests: 7<sup>[7.79MB]</sup>
 - Mappings: 0
 
 |  | Manifest | UE Version | Net CL | Build Date |
