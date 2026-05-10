@@ -43,7 +43,7 @@ How to View CL Versions:
 - Manifest: A file used to install a corresponding build.
 - Mapping: A file used within FModel to view the names and structure of files within a build.
 - AES Keys: A key or collection of keys used within FModel to decrypt .pak files.
-- Unreal Engine: The UE versions from `LogInit: Engine Version:` and `LogInit: Compatible Engine Version:`, obtained from the CrashReportClient log file.
+- Unreal Engine: The UE versions from `LogInit: Compatible Engine Version:`, obtained from the CrashReportClient log file.
 - - The builds CL is the primary UE version, if two UE versions are present, the compatible engine version is on the bottom.
 - Net CL: The network changelist from `LogInit: Net CL:`, obtained from the CrashReportClient log file.
 - Build Date: The compilation date from `LogInit: Compiled (64-bit):`, obtained from the CrashReportClient log file.
