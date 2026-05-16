@@ -10,8 +10,8 @@
 - Manifests: 0
 - Mappings: 0
 
-|  | Manifest | UE Version | Net CL | Build Date |
-| - | - | - | - | - |
+|  | Build | Manifest | UE Version | Net CL | Build Date |
+| - | - | - | - | - | - |
 | 23.00-CL-23344627<sup>[[1](#references)]</sup> |  |  | 5.1.0-23344627 | 23047124 | 2022/12/01 |
 
 ## Season 24
