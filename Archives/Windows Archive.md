@@ -93,7 +93,7 @@
 
 ## Pre-Battle Royale
 - Season: None
-- Builds: 1<sup>[14.5GB, 5.05GB .7z]</sup>
+- Builds: 1 / 17<sup>[3 unconfirmed]</sup><sup>[14.5GB, 5.05GB .7z]</sup>
 - Manifests: 0
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#cert)
@@ -423,136 +423,149 @@
 | 12.60-CL-13477524 |  | [Download](https://archive.org/download/fn-v12-archive/manifests/FgKMa-wCOesX6Abl1kifJYcLTuJ-5A.manifest)<sup>[29.6MB]</sup> | 4.25.0-13477524 |  | 2020/05/20 |
 | 12.61-CL-13498980 | [Download](https://archive.org/download/fn-v12-archive/builds/12.61-CL-13498980.7z)<sup>[84.8GB, 29.7GB .7z]</sup> | [Download](https://archive.org/download/fn-v12-archive/manifests/kpWEntSL0uNcIcH4ZUm6nFsFnar-3w.manifest)<sup>[29.6MB]</sup>  | 4.25.0-13498027 | 13228591 | 2020/05/22 |
 
-<!--## Season 13
+## Season 13
 - Season: Chapter 2: Season 3
-- Builds: 5 / x<sup>[439.4GB, 153.6GB .7z]</sup>
-- Manifests: 5 / x<sup>[MB]</sup>
+- Builds: 5 / 8<sup>[439.4GB, 153.6GB .7z]</sup>
+- Manifests: 8 / 8<sup>[250.3MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive]([https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-2-season-3-splash-down))
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-| 13.00-CL-13649278 | [Download](https://archive.org/download/fn-v13-archive/builds/13.00-CL-13649278.7z)<sup>[87.3GB, 30.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v13-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 13.00-CL-13715544 | [Download](https://archive.org/download/fn-v13-archive/builds/13.00-CL-13715544.7z)<sup>[79.2GB, 27GB .7z]</sup> | [Download](https://archive.org/download/fn-v13-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 13.20-CL-13777676 | [Download](https://archive.org/download/fn-v13-archive/builds/13.20-CL-13777676.7z)<sup>[89.7GB, 31.5GB .7z]</sup> | [Download](https://archive.org/download/fn-v13-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 13.30-CL-13884634 | [Download](https://archive.org/download/fn-v13-archive/builds/13.30-CL-13884634.7z)<sup>[90.5GB, 31.9GB .7z]</sup> | [Download](https://archive.org/download/fn-v13-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 13.40-CL-14113327 | [Download](https://archive.org/download/fn-v13-archive/builds/13.40-CL-14113327.7z)<sup>[92.7GB, 32.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v13-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
+| 13.00-CL-13649278 | [Download](https://archive.org/download/fn-v13-archive/builds/13.00-CL-13649278.7z)<sup>[87.3GB, 30.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v13-archive/manifests/ZUQyNUHswApJSCYuokeA-Q7j60nFHg.manifest)<sup>[30.3MB]</sup> | 4.26.0-13649278 | 13032341 | 2020/06/08 |
+| 13.00-CL-13696059 |  | [Download](https://archive.org/download/fn-v13-archive/manifests/6w63WNDQ6fnOhOZ3SE-vegG_R-EQlg.manifest)<sup>[30.3MB]</sup> | 4.26.0-13695873 | 13032341 | 2020/06/17 |
+| 13.00-CL-13715544 | [Download](https://archive.org/download/fn-v13-archive/builds/13.00-CL-13715544.7z)<sup>[79.2GB, 27GB .7z]</sup> | [Download](https://archive.org/download/fn-v13-archive/manifests/-HHPY5se-mwf2BiOLkSRJvaCWDUKnA.manifest)<sup>[30.3MB]</sup> | 4.26.0-13715533 | 13032341 | 2020/06/19 |
+| 13.20-CL-13777676 | [Download](https://archive.org/download/fn-v13-archive/builds/13.20-CL-13777676.7z)<sup>[89.7GB, 31.5GB .7z]</sup> | [Download](https://archive.org/download/fn-v13-archive/manifests/zOUaEMjHOjnoHT50tEmEUqeJAT7mLA.manifest)<sup>[31.2MB]</sup> | 4.26.0-13777557 | 13617966 | 2020/06/26 |
+| 13.30-CL-13884634 | [Download](https://archive.org/download/fn-v13-archive/builds/13.30-CL-13884634.7z)<sup>[90.5GB, 31.9GB .7z]</sup> | [Download](https://archive.org/download/fn-v13-archive/manifests/__d-73Y9siJhxSaCRE6egZe3gbpjNw.manifest)<sup>[31.6MB]</sup> | 4.26.0-13882849 | 13704592 | 2020/07/17 |
+| 13.40-CL-14008768 |  | [Download](https://archive.org/download/fn-v13-archive/manifests/r70n58nGmOBda57S_EST7qGOsLgPTw.manifest)<sup>[32.2MB]</sup> | 4.26.0-14008768	| 13920814 | 2020/08/03 |
+| 13.40-CL-14036559 |  | [Download](https://archive.org/download/fn-v13-archive/manifests/lxP7nVJQuqONDOBmy0eOuS3UycHqKA.manifest)<sup>[32.2MB]</sup> | 4.26.0-14036559 | 13920814 | 2020/08/05 |
+| 13.40-CL-14113327 | [Download](https://archive.org/download/fn-v13-archive/builds/13.40-CL-14113327.7z)<sup>[92.7GB, 32.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v13-archive/manifests/k39Q5tXfdlFV3Vi8tEWwdzJstOCncw.manifest)<sup>[32.2MB]</sup> | 4.26.0-14113082 | 13920814 | 2020/08/14 |
 
 ## Season 14
 - Season: Chapter 2: Season 4
-- Builds: 7 / x<sup>[GB, GB .7z]</sup>
-- Manifests: 7 / x<sup>[]</sup>
+- Builds: 7 / 17<sup>[483.5GB, 219.3GB .7z]</sup>
+- Manifests: 17 / 17<sup>[422MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-2-season-4-nexus-war)
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v14-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-|  | [Download](https://archive.org/download/fn-v14-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-|  | [Download](https://archive.org/download/fn-v14-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-|  | [Download](https://archive.org/download/fn-v14-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-|  | [Download](https://archive.org/download/fn-v14-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-|  | [Download](https://archive.org/download/fn-v14-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 14.60-CL-14786821 | [Download](https://archive.org/download/fn-v14-archive/builds/14.60-CL-14786821.7z)<sup>[33.3GB, 28GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
+| 14.00-CL-14173417 |  | [Download](https://archive.org/download/fn-v14-archive/manifests/WIYuFdTOCn_b67Mnik-Q0teZEIWd-Q.manifest)<sup>[33.8MB]</sup> | 4.26.0-14173417 | 14052934 | 2020/08/24 |
+| 14.00-CL-14199892 |  | [Download](https://archive.org/download/fn-v14-archive/manifests/-IAv9taY4Yjn2jw5xU2l_BgrdMs8PQ.manifest)<sup>[33.8MB]</sup> | 4.26.0-14199892 | 14052934 | 2020/08/27 |
+| 14.00-CL-14211474 | [Download](https://archive.org/download/fn-v14-archive/builds/14.00-CL-14211474.7z)<sup>[95.3GB, 34.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/eV3odPpOFO5KqwyQaUqN6BRpXUIV1Q.manifest)<sup>[33.8MB]</sup> | 4.26.0-14211474 | 14052934 | 2020/08/28 |
+| 14.10-CL-14276912 |  | [Download](https://archive.org/download/fn-v14-archive/manifests/HhLsZiMFk17s3fY5i0OSBOI8MtsFdA.manifest)<sup>[34.3MB]</sup> | 4.26.0-???????? |  | 2020/0?/?? |
+| 14.10-CL-14288110 |  | [Download](https://archive.org/download/fn-v14-archive/manifests/A5rhLa8WYtEHXXDBu0qY6QjeYRAZBA.manifest)<sup>[34.3MB]</sup> | 4.26.0-???????? |  | 2020/0?/?? |
+| 14.10-CL-14312695 | [Download](https://archive.org/download/fn-v14-archive/builds/14.10-CL-14312695.7z)<sup>[96.5GB, 34.4GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/iOp7OXIvJZsHpe1X6UavQXOryv-3dg.manifest)<sup>[34.3MB]</sup> | 4.26.0-14305421 | 14170054 | 2020/09/14 |
+| 14.20-CL-14354056 |  | [Download](https://archive.org/download/fn-v14-archive/manifests/3EjPigM-G_w7AHCIrUyLHu8t4KWtUA.manifest)<sup>[34.7MB]</sup> | 4.26.0-???????? |  | 2020/09/?? |
+| 14.20-CL-14375974 |  | [Download](https://archive.org/download/fn-v14-archive/manifests/cbEscV3_fQIaHll8QEyadlm1u45o5g.manifest)<sup>[34.7MB]</sup> | 4.26.0-???????? |  | 2020/09/?? |
+| 14.20-CL-14384759 | [Download](https://archive.org/download/fn-v14-archive/builds/14.20-CL-14384759.7z)<sup>[97.4GB, 34.8GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/08opnel1yrNVPmiQFkGQw7aDSvgUKg.manifest)<sup>[34.7MB]</sup> | 4.26.0-14347869 | 14267198 | 2020/09/20 |
+| 14.30-CL-14456520 | [Download](https://archive.org/download/fn-v14-archive/builds/14.30-CL-14456520.7z)<sup>[97.6GB, 34.9GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/vSRBaHxfB_kuksWOEk2_PfUPG22MVw.manifest)<sup>[35.1MB]</sup> | 4.26.0-14456520 | 14278346 | 2020/10/09 |
+| 14.40-CL-14512399 |  | [Download](https://archive.org/download/fn-v14-archive/manifests/BQ1lc_hzhBmmkfMkv0i-kBwqATdi0w.manifest)<sup>[10.7MB]</sup> | 4.26.0-???????? |  | 2020/10/?? |
+| 14.40-CL-14550713 | [Download](https://archive.org/download/fn-v14-archive/builds/14.40-CL-14550713.7z)<sup>[31.5GB, 26.4GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/DClI318w-7eAMz2fmUuHgSkAlomU6g.manifest)<sup>[10.8MB]</sup> | 4.26.0-14550552 | 14457889 | 2020/10/22 |
+| 14.50-CL-14617811 |  | [Download](https://archive.org/download/fn-v14-archive/manifests/TeUEJvLhEenUjW_LzEqFQuARF-vgoQ.manifest)<sup>[11.1MB]</sup> | 4.26.0-???????? |  | 2020/1?/?? |
+| 14.50-CL-14643651 | [Download](https://archive.org/download/fn-v14-archive/builds/14.50-CL-14643651.7z)<sup>[31.9GB, 26.7GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/iy2C4VZCKwMe83dKd0KofFbo8RcXmQ.manifest)<sup>[11.1MB]</sup> | 4.26.0-14638362 | 14457890 | 2020/11/03 |
+| 14.60-CL-14756138 |  | [Download](https://archive.org/download/fn-v14-archive/manifests/eTVXl5pN2ru94uvYIkGIwgecMM0m_g.manifest)<sup>[11.6MB]</sup> | 4.26.0-???????? |  | 2020/11/?? |
+| 14.60-CL-14785135 |  | [Download](https://archive.org/download/fn-v14-archive/manifests/J7nUADncwk2szmTXwE-6Apsbr0ChGg.manifest)<sup>[11.6MB]</sup> | 4.26.0-???????? |  | 2020/11/?? |
+| 14.60-CL-14786821 | [Download](https://archive.org/download/fn-v14-archive/builds/14.60-CL-14786821.7z)<sup>[33.3GB, 28GB .7z]</sup> | [Download](https://archive.org/download/fn-v14-archive/manifests/0zBnTzhzHTTQw-bMo06bpGonsWK9AA.manifest)<sup>[11.6MB]</sup> | 4.26.0-14786821 | 14675445 | 2020/11/19 |
 
-## Season 15
+<!--## Season 15
 - Season: Chapter 2: Season 5
 - Builds: 0 / 0<sup>[GB, GB .7z]</sup>
-- Manifests: 0 / 0<sup>[]</sup>
+- Manifests: 0 / 0<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-2-season-5-zero-point)
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v15-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v15-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v15-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v15-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 16
 - Season: Chapter 2: Season 6
 - Builds: 0 / 0<sup>[GB, GB .7z]</sup>
-- Manifests: 0 / 0<sup>[]</sup>
+- Manifests: 0 / 0<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-2-season-6-primal)
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 17
 - Season: Chapter 2: Season 7
 - Builds: 0 / 0<sup>[GB, GB .7z]</sup>
-- Manifests: 0 / 0<sup>[]</sup>
+- Manifests: 0 / 0<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-2-season-7-invasion)
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v17-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v17-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v17-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v17-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 18
 - Season: Chapter 2: Season 8
 - Builds: 0 / 0<sup>[GB, GB .7z]</sup>
-- Manifests: 0 / 0<sup>[]</sup>
+- Manifests: 0 / 0<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-2-season-8-cubed)
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v18-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v18-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v18-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v18-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 19
 - Season: Chapter 3: Season 1
 - Builds: 0 / 0<sup>[GB, GB .7z]</sup>
-- Manifests: 0 / 0<sup>[]</sup>
+- Manifests: 0 / 0<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-3-season-1-flipped)
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v19-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v19-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v19-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v19-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 20
 - Season: Chapter 3: Season 2
 - Builds: 0 / 0<sup>[GB, GB .7z]</sup>
-- Manifests: 0 / 0<sup>[]</sup>
+- Manifests: 0 / 0<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-3-season-2-resistance)
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v20-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v20-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v20-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v20-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 21
 - Season: Chapter 3: Season 3
 - Builds: 0 / 0<sup>[GB, GB .7z]</sup>
-- Manifests: 0 / 0<sup>[]</sup>
+- Manifests: 0 / 0<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-3-season-3-vibin)
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v21-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v21-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v21-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v21-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 22
 - Season: Chapter 3: Season 4
 - Builds: 0 / 0<sup>[GB, GB .7z]</sup>
-- Manifests: 0 / 0<sup>[]</sup>
+- Manifests: 0 / 0<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-3-season-4-paradise)
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v22-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v22-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 23
 - Season: Chapter 4: Season 1
 - Builds: 0 / 0<sup>[GB, GB .7z]</sup>
-- Manifests: 0 / 0<sup>[]</sup>
+- Manifests: 0 / 0<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-1-a-new-beginning)
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v23-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v23-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |-->
+|  | [Download](https://archive.org/download/fn-v23-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v23-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |-->
 
 ## Season 24
 - Season: Chapter 4: Season 2
@@ -587,7 +600,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v25-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v25-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v25-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v25-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 26
 - Season: Chapter 4: Season 4
@@ -598,7 +611,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v26-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v26-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v26-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v26-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 27
 - Season: Chapter 4: Season OG
@@ -609,7 +622,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v27-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v27-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v27-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v27-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 28
 - Season: Chapter 5: Season 1
@@ -620,7 +633,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v28-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v28-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v28-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v28-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 29
 - Season: Chapter 5: Season 2
@@ -631,7 +644,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v29-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v29-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v29-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v29-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 30
 - Season: Chapter 5: Season 3
@@ -642,7 +655,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v30-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v30-archive/manifests/.manifest)<sup>[]</sup> |  |  |  |
+|  | [Download](https://archive.org/download/fn-v30-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v30-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
 
 ## Season 31
 - Season: Chapter 5: Season 4
@@ -653,7 +666,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v31-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v31-archive/manifests/.manifest)<sup>[]</sup> |  |  |
+|  | [Download](https://archive.org/download/fn-v31-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v31-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |
 
 ## Season 32
 - Season: Chapter 2 Remix
@@ -664,7 +677,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v32-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v32-archive/manifests/.manifest)<sup>[]</sup> |  |  |
+|  | [Download](https://archive.org/download/fn-v32-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v32-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |
 
 ## Season 33
 - Season: Chapter 6: Season 1
@@ -675,7 +688,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v33-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v33-archive/manifests/.manifest)<sup>[]</sup> |  |  |
+|  | [Download](https://archive.org/download/fn-v33-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v33-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |
 
 ## Season 34
 - Season: Chapter 6: Season 2
@@ -686,7 +699,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v34-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v34-archive/manifests/.manifest)<sup>[]</sup> |  |  |
+|  | [Download](https://archive.org/download/fn-v34-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v34-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |
 
 ## Season 35
 - Season: Chapter 6: Mini-Season 1<sup>[Galactic Battle]</sup>
@@ -697,7 +710,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v35-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v35-archive/manifests/.manifest)<sup>[]</sup> |  |  |
+|  | [Download](https://archive.org/download/fn-v35-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v35-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |
 
 ## Season 36
 - Season: Chapter 6: Season 3
@@ -708,7 +721,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v36-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v36-archive/manifests/.manifest)<sup>[]</sup> |  |  |
+|  | [Download](https://archive.org/download/fn-v36-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v36-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |
 
 ## Season 37
 - Season: Chapter 6: Season 4
@@ -719,7 +732,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v37-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v37-archive/manifests/.manifest)<sup>[]</sup> |  |  |
+|  | [Download](https://archive.org/download/fn-v37-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v37-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |
 
 ## Season 38
 - Season: Chapter 6: Mini-Season 2
@@ -730,7 +743,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v38-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v38-archive/manifests/.manifest)<sup>[]</sup> |  |  |
+|  | [Download](https://archive.org/download/fn-v38-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v38-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |
 
 ## Season 39
 - Season: Chapter 7: Season 1
@@ -741,7 +754,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v39-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v39-archive/manifests/.manifest)<sup>[]</sup> |  |  |
+|  | [Download](https://archive.org/download/fn-v39-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v39-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |
 
 ## Season 40
 - Season: Chapter 7: Season 2
@@ -752,7 +765,7 @@
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-|  | [Download](https://archive.org/download/fn-v40-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v40-archive/manifests/.manifest)<sup>[]</sup> |  |  |-->
+|  | [Download](https://archive.org/download/fn-v40-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v40-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |-->
 
 # References
 2. These builds are only speculated to have existed.
