@@ -37,7 +37,7 @@
 
 ## Online Tests
 - Season: None
-- Builds: 3 / 45<sup>[2 unconfirmed]</sup><sup>[29GB, 9.23GB .7z]</sup><sup>[[2](#references)]</sup>
+- Builds: 3 / 45<sup>[2 unconfirmed]</sup><sup>[29GB, 9.23GB .7z]</sup><sup>[[ot 1](#otreferences)]</sup>
 - Manifests: 1 / ??
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#cert)
@@ -69,7 +69,7 @@
 | OT6.2 |  |  | 4.1?.?-??????? |  | 2015/12/15<br/>2015/12/26 |
 | OT6.3<sup>[[1](#references)]</sup> |  |  | 4.1?.?-??????? |  | 201?/??/??<br/>201?/??/?? |
 | OT6.4<sup>[[1](#references)]</sup> |  |  | 4.1?.?-??????? |  | 201?/??/??<br/>201?/??/?? |
-| OT6.5-Live-CL-2870186</sub> | [Download](https://archive.org/download/fn-ot-archive/OT6.5-Live-CL-2870186.7z)<sup>[14.6GB, 4.25GB .7z]</sup> |  | 4.12.0-2870186 | 2870186<sup>[[3](#references)]</sup> | 2016/02/17<sup>[[4](#references)]</sup> |
+| OT6.5-Live-CL-2870186</sub> | [Download](https://archive.org/download/fn-ot-archive/OT6.5-Live-CL-2870186.7z)<sup>[14.6GB, 4.25GB .7z]</sup> |  | 4.12.0-2870186 | 2870186<sup>[[ot 2](#otreferences)]</sup> | 2016/02/17<sup>[[ot 3](#otreferences)]</sup> |
 | OT6.6-CL-2898795 |  |  | 4.12.0-2898795 |  | 2016/03/01<br/>2016/03/22 |
 | OT6.7-CL-2919741 |  |  | 4.12.0-2919741 |  | 2016/03/22<br/>2016/0?/?? |
 | OT7-CL-3012530 |  |  | 4.12.0-3012530 |  | 2016/06/14<br/>2016/??/?? |
@@ -90,6 +90,11 @@
 | OT11.?-CL-3502004 |  |  | 4.16.0-3502004 |  | 2017/??/??<br/>2017/??/?? |
 | OT11.?-CL-3502071 |  |  | 4.16.0-3502071 |  | 2017/??/??<br/>2017/??/?? |
 | OT11.??-Cert-CL-3532353 | [Download](https://archive.org/download/fn-v0-archive/Cert-CL-3532353.7z)<sup>[14.4GB, 4.98GB .7z]</sup> |  | 4.16.0-3532353 | 3528277 | 2017/07/11 |
+
+### OT References
+1. This total size does not include Online Test ??.
+2. This is the `API Version` which seems to be the same as the `Net CL`.
+3. This is the `Compiled (32-bit)` date, but the patch notes were released on 2016/01/26.
 
 ## Pre-Battle Royale
 - Season: None
@@ -495,39 +500,43 @@
 | 15.50-CL-15526472 | [Download](https://archive.org/download/fn-v15-archive/builds/15.50-CL-15526472.7z)<sup>[35GB, 29.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v15-archive/manifests/vJW5mNtj-KyKaUo26E2UeuDBXtgUNQ.manifest)<sup>[11.7MB]</sup> | 4.26.0-15524872 | 15301536 | 2021/02/25 |
 | 15.50-CL-15570449 |  | [Download](https://archive.org/download/fn-v15-archive/manifests/N4qaUfEGF1WRgxFYSEK0dCyF-9DLfg.manifest)<sup>[11.7MB]</sup> | 4.26.0-???????? |  |  |
 
-<!--## Season 16
+## Season 16
 - Season: Chapter 2: Season 6
-- Builds: 4 / 17<sup>[GB, GB .7z]</sup>
-- Manifests: 17 / 17<sup>[MB]</sup>
+- Builds: 7 / 17<sup>[245.2GB, 202.5GB .7z]</sup>
+- Manifests: 17 / 17<sup>[215.1MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-2-season-6-primal)
+- Notes:
+  - The `Engine Version` for these builds is 4.26.1-???????? while the `Compatible Engine Version` is 4.26.0-????????.
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-| 16.00-CL-15685441 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.00-CL-15713390 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[del]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.00-CL-15727376 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[del]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.10-CL-15851811 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[del]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.10-CL-15862581 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[del]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.10-CL-15883297 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[del]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.10-CL-15898731 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[del]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.10-CL-15913292 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.20-CL-15961073 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.20-CL-15987165 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.20-CL-15998392 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.20-CL-16042441 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.30-CL-16086208 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.30-CL-16163563 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.40-CL-16218553 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.50-CL-16432754 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
-| 16.50-CL-16469788 | [Download](https://archive.org/download/fn-v16-archive/builds/.7z)<sup>[GB, GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |
+| 16.00-CL-15685441 | [Download](https://archive.org/download/fn-v16-archive/builds/16.00-CL-15685441.7z)<sup>[36.2GB, 30GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/0TUjehLQVK8zW6tqWkquGEm4QAE0xg.manifest)<sup>[12.5MB]</sup> | 4.26.0-15684641 |  |  |
+| 16.00-CL-15713390 |  | [Download](https://archive.org/download/fn-v16-archive/manifests/2N-wx7hYkt8Ni7lBDkausAkNOmtdoA.manifest)<sup>[12.5MB]</sup> |  |  |  |
+| 16.00-CL-15727376 |  | [Download](https://archive.org/download/fn-v16-archive/manifests/sjtPnOPJGVjpCn_MeU62f4dUQqSe4g.manifest)<sup>[12.6MB]</sup> |  |  |  |
+| 16.10-CL-15851811 |  | [Download](https://archive.org/download/fn-v16-archive/manifests/L9rTqg1OLlwprMBpdUaiNYI4-yUc5Q.manifest)<sup>[12.5MB]</sup> |  |  |  |
+| 16.10-CL-15862581 |  | [Download](https://archive.org/download/fn-v16-archive/manifests/CIwICRP-E1flI4b-XUWFsQdska-RbQ.manifest)<sup>[12.5MB]</sup> |  |  |  |
+| 16.10-CL-15883297 |  | [Download](https://archive.org/download/fn-v16-archive/manifests/-rvrkgHU7oWbYnwuPES1P2BfFi7QMQ.manifest)<sup>[12.5MB]</sup> |  |  |  |
+| 16.10-CL-15898731 |  | [Download](https://archive.org/download/fn-v16-archive/manifests/RIbiJD1siAR2cVG_wUuKp5lPxnvCkw.manifest)<sup>[12.5MB]</sup> |  |  |  |
+| 16.10-CL-15913292 | [Download](https://archive.org/download/fn-v16-archive/builds/16.10-CL-15913292.7z)<sup>[21GB, 16.4GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/Twf_6XRPiaDIGrA6ckiSmI1V6FqxSQ.manifest)<sup>[12.5MB]</sup> |  |  |  |
+| 16.20-CL-15961073 |  | [Download](https://archive.org/download/fn-v16-archive/manifests/45Yu75CiPHkk0EzIj0WBYuF9VW19zA.manifest)<sup>[12.6MB]</sup> |  |  |  |
+| 16.20-CL-15987165 | [Download](https://archive.org/download/fn-v16-archive/builds/16.20-CL-15987165.7z)<sup>[36.9GB, 30.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/p60cPJmW8tjdLQbgWkqIlst_ZBXYkA.manifest)<sup>[12.6MB]</sup> |  |  |  |
+| 16.20-CL-15998392 |  | [Download](https://archive.org/download/fn-v16-archive/manifests/-DzHROu43oWjoqUbwkqtK2BcyusIJg.manifest)<sup>[12.6MB]</sup> |  |  |  |
+| 16.20-CL-16042441 |  | [Download](https://archive.org/download/fn-v16-archive/manifests/ob4MNq3vl1K4IlNrQkmMRHKGXHri0Q.manifest)<sup>[12.6MB]</sup> |  |  |  |
+| 16.30-CL-16086208 |  | [Download](https://archive.org/download/fn-v16-archive/manifests/OzKzsnONyKV98T6gPU-kYL2m23VpgQ.manifest)<sup>[12.7MB]</sup> |  |  |  |
+| 16.30-CL-16163563 | [Download](https://archive.org/download/fn-v16-archive/builds/16.30-CL-16163563.7z)<sup>[37.4GB, 31GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/mnQTrr-mpTUTiv5Ab0qsYu_TrsLYzA.manifest)<sup>[12.7MB]</sup> |  |  |  |
+| 16.40-CL-16218553 | [Download](https://archive.org/download/fn-v16-archive/builds/16.40-CL-16218553.7z)<sup>[37.7GB, 31.3GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/PlBdWqpuSh7V8Uc_yUG5gX8HFLPwag.manifest)<sup>[13MB]</sup> |  |  |  |
+| 16.50-CL-16432754 | [Download](https://archive.org/download/fn-v16-archive/builds/16.50-CL-16432754.7z)<sup>[38GB, 31.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/myacVPh3VDv1zXI4Z0OpAVE76zqoiQ.manifest)<sup>[13.1MB]</sup> |  |  |  |
+| 16.50-CL-16469788 | [Download](https://archive.org/download/fn-v16-archive/builds/16.50-CL-16469788.7z)<sup>[38GB, 31.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v16-archive/manifests/JoLlB3IhtR6FpOfjYEuCkElNi5yxOA.manifest)<sup>[13.1MB]</sup> |  |  |  |
 
-## Season 17
+<!--## Season 17
 - Season: Chapter 2: Season 7
-- Builds: 0 / 13<sup>[GB, GB .7z]</sup>
+- Builds: 5 / 13<sup>[GB, GB .7z]</sup>
 - Manifests: 13 / 13<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-2-season-7-invasion)
+- Notes:
+  - The `Engine Version` for these builds is 4.26.1-???????? while the `Compatible Engine Version` is 4.26.0-????????.
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
@@ -677,23 +686,25 @@
 - Manifests: 14/14<sup>[48.22MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-4-season-2-mega)
+- Notes:
+  - The `Engine Version` for these builds is 5.1.1-???????? while the `Compatible Engine Version` is 5.1.0-????????.
 
 |  | Build | Manifest | UE Version | Net CL | Build Date |
 | - | - | - | - | - | - |
-| 24.00-CL-24554913 | [Download](https://archive.org/download/fn-v24-archive/builds/24.00-CL-24554913.7z)<sup>[49.1GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/J5azCyfV2jn3eZtiw0aqsyZiwQJsZg.manifest)<sup>[3.37MB]</sup> | 5.1.0-24540833<sup>[[5](#references)]</sup> | 24333550 | 2023/03/08 |
+| 24.00-CL-24554913 | [Download](https://archive.org/download/fn-v24-archive/builds/24.00-CL-24554913.7z)<sup>[49.1GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/J5azCyfV2jn3eZtiw0aqsyZiwQJsZg.manifest)<sup>[3.37MB]</sup> | 5.1.0-24540833 | 24333550 | 2023/03/08 |
 | 24.01-CL-24672685 | [Download](https://archive.org/download/fn-v24-archive/builds/24.01-CL-24672685.7z)<sup>[49.1GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/.manifest)<sup>[3.37MB]</sup> | 5.1.0-24672685 | 24395311 | 2023/03/16 |
 | 24.01-CL-24757023 |  | [Download](https://archive.org/download/fn-v24-archive/manifests/JVL65iVPIBZ8dEO5w0KrIw-w7eWKaA.manifest)<sup>[3.37MB]</sup> | 5.1.0-???????? |  | 2023/03/?? |
 | 24.10-CL-24770548 | [Download](https://archive.org/download/fn-v24-archive/builds/24.10-CL-24770548.7z)<sup>[47.6GB, 39GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/E8kYSgfFkvilKPhZYUGhNpMuXQ40TQ.manifest)<sup>[3.25MB]</sup> | 5.1.0-24769253 | 24666426 | 2023/03/24 |
 | 24.10-CL-24903530 | [Download](https://archive.org/download/fn-v24-archive/builds/24.10-CL-24903530.7z)<sup>[47.6GB, 39.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/E8kYSgfFkvilKPhZYUGhNpMuXQ40TQ.manifest)<sup>[3.25MB]</sup> | 5.1.0-24903530 | 24666426 | 2023/04/04 |
-| 24.20-CL-24939793 | [Download](https://archive.org/download/fn-v24-archive/builds/24.20-CL-24939793.7z)<sup>[48.2GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/ois5wAXb8Ey7DnuQCE6Bov2JuNamNg.manifest)<sup>[3.25MB]</sup> | 5.1.0-24937568<sup>[[5](#references)]</sup> | 24849278 | 2023/04/06 |
-| 24.20-CL-25019967 | [Download](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25019967.7z)<sup>[48.2GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/1Bcu9mbzJvm-QvIrb0CL1r2rl1DQaQ.manifest)<sup>[3.25MB]</sup> | 5.1.0-25019388<sup>[[5](#references)]</sup> | 24849278 | 2023/04/13 |
-| 24.20-CL-25058254 | [Download](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25058254.7z)<sup>[48.2GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/tmTvOoFm8OIjCeEGcEy5K-JduF6EvA.manifest)<sup>[3.25MB]</sup> | 5.1.0-25051020<sup>[[5](#references)]</sup> | 24849278 | 2023/04/15 |
-| 24.20-CL-25156858 | [Download](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25156858.7z)<sup>[48.2GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/5BHctenF6Pa18s1RHUCk5T1__ERIFg.manifest)<sup>[3.25MB]</sup> | 5.1.0-25156858<sup>[[5](#references)]</sup> | 24849278 | 2023/04/22 |
-| 24.30-CL-25210886 | [Download](https://archive.org/download/fn-v24-archive/builds/24.30-CL-25210886.7z)<sup>[39.7GB, 32.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/k0qQ8OW4iRnz9BsuvkGe-kDeD304jA.manifest)<sup>[2.75MB]</sup> | 5.1.0-25210886<sup>[[5](#references)]</sup> | 25121379 | 2023/04/22 |
-| 24.30-CL-25347382 | [Download](https://archive.org/download/fn-v24-archive/builds/24.30-CL-25347382.7z)<sup>[39.7GB, 32.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/7rRQaEpSegmh97PgEUuJLFvvxnYHEg.manifest)<sup>[2.75MB]</sup> | 5.1.0-25330280<sup>[[5](#references)]</sup> | 25121379 | 2023/05/05 |
-| 24.40-CL-25420516 | [Download](https://archive.org/download/fn-v24-archive/builds/24.40-CL-25420516.7z)<sup>[63GB, 53.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/h1LrH7m6sal5AkDnKEqBVaHGJmOsHw.manifest)<sup>[4.37MB]</sup> | 5.1.0-25418020<sup>[[5](#references)]</sup> | 25347113 | 2023/05/11 |
-| 24.40-CL-25521145 | [Download](https://archive.org/download/fn-v24-archive/builds/24.40-CL-25521145.7z)<sup>[63GB, 53.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/Wi3PzpC9YlzGQAyqJE2XDzUJP-aBIg.manifest)<sup>[4.37MB]</sup> | 5.1.0-25521134<sup>[[5](#references)]</sup> | 25347113 | 2023/05/18 |
-| 24.40-CL-25595478 | [Download](https://archive.org/download/fn-v24-archive/builds/24.40-CL-25595478.7z)<sup>[63GB, 53.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/fVxH4TNQnx8Cfzq2GkKq1VTK1BQeJw.manifest)<sup>[4.37MB]</sup> | 5.1.0-25594628<sup>[[5](#references)]</sup> | 25347113 | 2023/05/24 |
+| 24.20-CL-24939793 | [Download](https://archive.org/download/fn-v24-archive/builds/24.20-CL-24939793.7z)<sup>[48.2GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/ois5wAXb8Ey7DnuQCE6Bov2JuNamNg.manifest)<sup>[3.25MB]</sup> | 5.1.0-24937568 | 24849278 | 2023/04/06 |
+| 24.20-CL-25019967 | [Download](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25019967.7z)<sup>[48.2GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/1Bcu9mbzJvm-QvIrb0CL1r2rl1DQaQ.manifest)<sup>[3.25MB]</sup> | 5.1.0-25019388 | 24849278 | 2023/04/13 |
+| 24.20-CL-25058254 | [Download](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25058254.7z)<sup>[48.2GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/tmTvOoFm8OIjCeEGcEy5K-JduF6EvA.manifest)<sup>[3.25MB]</sup> | 5.1.0-25051020 | 24849278 | 2023/04/15 |
+| 24.20-CL-25156858 | [Download](https://archive.org/download/fn-v24-archive/builds/24.20-CL-25156858.7z)<sup>[48.2GB, 39.6GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/5BHctenF6Pa18s1RHUCk5T1__ERIFg.manifest)<sup>[3.25MB]</sup> | 5.1.0-25156858 | 24849278 | 2023/04/22 |
+| 24.30-CL-25210886 | [Download](https://archive.org/download/fn-v24-archive/builds/24.30-CL-25210886.7z)<sup>[39.7GB, 32.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/k0qQ8OW4iRnz9BsuvkGe-kDeD304jA.manifest)<sup>[2.75MB]</sup> | 5.1.0-25210886 | 25121379 | 2023/04/22 |
+| 24.30-CL-25347382 | [Download](https://archive.org/download/fn-v24-archive/builds/24.30-CL-25347382.7z)<sup>[39.7GB, 32.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/7rRQaEpSegmh97PgEUuJLFvvxnYHEg.manifest)<sup>[2.75MB]</sup> | 5.1.0-25330280 | 25121379 | 2023/05/05 |
+| 24.40-CL-25420516 | [Download](https://archive.org/download/fn-v24-archive/builds/24.40-CL-25420516.7z)<sup>[63GB, 53.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/h1LrH7m6sal5AkDnKEqBVaHGJmOsHw.manifest)<sup>[4.37MB]</sup> | 5.1.0-25418020 | 25347113 | 2023/05/11 |
+| 24.40-CL-25521145 | [Download](https://archive.org/download/fn-v24-archive/builds/24.40-CL-25521145.7z)<sup>[63GB, 53.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/Wi3PzpC9YlzGQAyqJE2XDzUJP-aBIg.manifest)<sup>[4.37MB]</sup> | 5.1.0-25521134 | 25347113 | 2023/05/18 |
+| 24.40-CL-25595478 | [Download](https://archive.org/download/fn-v24-archive/builds/24.40-CL-25595478.7z)<sup>[63GB, 53.1GB .7z]</sup> | [Download](https://archive.org/download/fn-v24-archive/manifests/fVxH4TNQnx8Cfzq2GkKq1VTK1BQeJw.manifest)<sup>[4.37MB]</sup> | 5.1.0-25594628 | 25347113 | 2023/05/24 |
 
 <!--## Season 25
 - Season: Chapter 4: Season 3
@@ -973,11 +984,7 @@
 |  | [Download](https://archive.org/download/fn-v40-archive/builds/.7z)<sup>[]</sup> | [Download](https://archive.org/download/fn-v40-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |-->
 
 # References
-2. These builds are only speculated to have existed.
-3. This total size does not include Online Test ??.
-4. This is the `API Version` which seems to be the same as the `Net CL`.
-5. This is the `Compiled (32-bit)` date, but the patch notes were released on 2016/01/26.
-6. The `Engine Version` for these builds is 5.1.1-???????? while the `Compatible Engine Version` is 5.1.0-????????.
+1. These builds are only speculated to have existed.
 
 # Sources
 1. Internal GameJam (UE3 Base Building Demo): [YouTube](https://www.youtube.com/watch?v=x2rS_ltmJ0Q&t=1102s)
