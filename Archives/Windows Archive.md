@@ -181,7 +181,7 @@
 | 2.3.1<sup>[[Source](#Sources)]</sup> |  |  | 4.1?.?-??????? |  | 2018/01/26 |
 | 2.3.2-CL-3856999<sup>[[Source](#Sources)]</sup> |  |  | 4.19.0-3856999 |  | 2018/01/27 |
 | 2.4.0-Cert-CL-3858292 | [Download](https://archive.org/download/fn-v2-archive/builds/2.4.0-Cert-CL-3858292.7z)<sup>[18.5GB, 6.42GB .7z]</sup> |  | 4.19.0-3858292 | 3848354 | 2018/01/26 |
-| 2.4.1<sup>[[Source](#Sources)]</sup> | | 4.19.0-??????? |  | 2018/02/0? |
+| 2.4.1<sup>[[Source](#Sources)]</sup> |  |  | 4.19.0-??????? |  | 2018/02/0? |
 | 2.4.2-Next-CL-3870737 | [Download](https://archive.org/download/fn-v2-archive/builds/2.4.2-Next-CL-3870737.7z)<sup>[18.4GB, 6.43GB .7z]</sup> |  | 4.19.0-3870737 | 3861499 | 2018/02/02 |
 | 2.4.x-CL-3876086 |  |  | 4.19.0-3876086 |  | 2018/02/08 |
 | 2.5.0-CL-3889387 | [Download](https://archive.org/download/fn-v2-archive/builds/2.5.0-CL-3889387.7z)<sup>[18.5GB, 6.58GB .7z]</sup> | [Download](https://archive.org/download/fn-v2-archive/manifests/d3s1TwNa7211302816b14cb28244998484a8be93.manifest)<sup>[7.25MB]</sup> | 4.20.0-3889387 | 3886413 | 2018/02/14 |
