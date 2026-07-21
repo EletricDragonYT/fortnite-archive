@@ -231,8 +231,8 @@
 
 ## Season 5
 - Season: Season 5
-- Builds: 8 / 12<sup>[199.4GB, 69.7GB .7z]</sup>
-- Manifests: 0 / 12
+- Builds: 8 / 14<sup>[199.4GB, 69.7GB .7z]</sup>
+- Manifests: 0 / 14
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-1-season-5-worlds-collide)
 
@@ -247,6 +247,8 @@
 | 5.21-CL-4281534 |  |  | 4.21.0-4281534 |  | 2018/08/15 |
 | 5.21-CL-4288479 | [Download](https://archive.org/download/fn-v5-archive/builds/5.21-CL-4288479.7z)<sup>[25.3GB, 8.73GB .7z]</sup> |  | 4.21.0-4288479 | 4276017 | 2018/08/15 |
 | 5.30-CL-4305896 | [Download](https://archive.org/download/fn-v5-archive/builds/5.30-CL-4305896.7z)<sup>[26GB, 9.01GB .7z]</sup> |  | 4.21.0-4304787 | 4287428 | 2018/08/21 |
+| 5.30-CL-4312945 |  |  | 4.21.0-4312945 | 4288000 | 2018/08/23 |
+| 5.30-CL-4317672 |  |  | 4.21.0-4317672 |  | 2018/08/23 |
 | 5.40-CL-4351695 |  |  | 4.21.0-4351695 |  | 2018/09/05 |
 | 5.40-CL-4352937 | [Download](https://archive.org/download/fn-v5-archive/builds/5.40-CL-4352937.7z)<sup>[23.2GB, 8.58GB .7z]</sup> |  | 4.21.0-4352420 | 4307413 | 2018/09/07 |
 | 5.41-CL-4363240 | [Download](https://archive.org/download/fn-v5-archive/builds/5.41-CL-4363240.7z)<sup>[26.6GB, 9.21GB .7z]</sup> |  | 4.21.0-4362759 | 4358210 | 2018/09/12 |
