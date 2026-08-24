@@ -3,40 +3,31 @@
 - Available Builds
   - [Windows](/Archives/Windows%20Archive.md)
   - [UEFN](/Archives/UEFN%20Archive.md)
-  <!--- [MacOS](/Archives/MacOS%20Archive.md) -->
+  <!-- - [MacOS](/Archives/MacOS%20Archive.md) -->
   - [Xbox](/Archives/Xbox%20Archive.md)
   - [PlayStation](/Archives/PlayStation%20Archive.md)
-  <!--- [Switch](/Archives/Switch%20Archive.md)
+  <!--
+  - [Switch](/Archives/Switch%20Archive.md)
   - [Android](/Archives/Android%20Archive.md)
-  - [IOS](/Archives/IOS%20Archive.md)-->
+  - [IOS](/Archives/IOS%20Archive.md)
+  -->
+- Legendary and Manifest Downloading: [Tutorial](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE)
+- Viewing Hotfix Files: `C:\Users\{user}\AppData\Local\FortniteGame\Saved\PersistentDownloadDir\EMS`
+- Viewing Build CL: [Tutorial](#tutorials)
 
-## General Information
-[Legendary and Manifest Download Tutorial](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE)
+## Version Tables
+- The first column is for the "build" which displays the version and it's changelist (CL) from `LogInit: Build:`, obtained from the CrashReportClient log file.
+- The second column is for downloads, if available. Downloads are named after what they are downloading.
+  - "build" refers to PC versions and "dump" refers to other system versions that have been dumped or extracted from their "base" or original files.
+  - Everything else is mostly self explanatory, and is all unique to a game system which requires them to be "dumped" to be used.
+  - Manifest: A file used to install a corresponding build directly from Epic Games' servers, if the manifest works.
+  - Mapping: A file used within FModel to view the names and structure of files within a build.
+- The third column is for the Unreal Engine version from `LogInit: Compatible Engine Version:`, obtained from the CrashReportClient log file.
+- The fourth column is for the Network Changelist (Net CL) from `LogInit: Net CL:`, obtained from the CrashReportClient log file.
+- The fifth column is for the date that the build was compiled from `LogInit: Compiled (64-bit):`, obtained from the CrashReportClient log file.
+  - Any cell that contains a question mark (?) contains information that is incomplete or estimated. Such information, especially without a build download link, should be taken with a grain of salt.
 
-How to View Hotfixes: `C:\Users\{user}\AppData\Local\FortniteGame\Saved\PersistentDownloadDir\EMS`<br/>
-How to View CL Versions:
-- CrashReportClient<sup>(Exceptions: v5.00 - v6.31-CL-4573279, v9.10-CL-6639283, and v11.40-CL-11039906)</sup>
-  - Open `Fortnite\Engine\Binaries\Win64` -> right click CrashReportClient -> Properties -> Details -> Product Version
-  - Open `Fortnite\Engine\Binaries\Win64` -> right click CrashReportClientEditor -> Properties -> Details -> Product Version
-  - Open `Fortnite\Engine\Binaries\Win64` -> double click CrashReportClient -> `C:\Users\{user}\AppData\Local\CrashReportClient\Saved\Logs` -> LogInit: Build:
-- [sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
-  - Double click sysinternals
-  - Double click `Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping`
-  - In sysinternals, find and double click `FortniteClient-Win64-Shipping.exe` -> Strings -> Save
-  - In the saved .txt file, search for "-CL"
-    - Must be done quickly if the file opens the Epic Games launcher, closing `FortniteClient-Win64-Shipping.exe`.
-- FortniteClient-Win64-Shipping<sup>(Only v5.21-CL-4288479 - v6.31-CL-4573279)</sup>
-  - Doule click `Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe` -> top middle of the login screen
-
-## Tables
-- Build: The version and changelist (CL) from `LogInit: Build:`, obtained from the CrashReportClient log file.
-- Manifest: A file used to install a corresponding build.
-- Mapping: A file used within FModel to view the names and structure of files within a build.
 - AES Keys: A key or collection of keys used within FModel to decrypt .pak files.
-- Unreal Engine: The UE versions from `LogInit: Compatible Engine Version:`, obtained from the CrashReportClient log file.
-- - The builds CL is the primary UE version, if two UE versions are present, the compatible engine version is on the bottom.
-- Net CL: The network changelist from `LogInit: Net CL:`, obtained from the CrashReportClient log file.
-- Build Date: The compilation date from `LogInit: Compiled (64-bit):`, obtained from the CrashReportClient log file.
 
 ## External Links
 All download ranges should be taken with a grain of salt, many builds are lost, unavailable and/or gatekept.
@@ -110,8 +101,7 @@ SDKs
 - [Fortnite-SDKs - ggsplayz](https://github.com/ggsplayz/Fortnite-SDKs): Season 4 -Season 18
 
 ## Credits
-There is a lack of credits here, this isn't because I'm selfish but because the origin of a build varies heavily. Strictly speaking, all builds originate from Epic Games, the developers and publishers of Fortnite. 
-However, that isn't where modern day downloads to builds before v24.20 originate from anymore. Below is a sort of extension of the external links section, and many familiar names will popup.
+There is a lack of credits here, this isn't because I'm selfish but because the origin of a build varies heavily. Strictly speaking, all builds originate from Epic Games, the developers and publishers of Fortnite. However, that isn't where modern day downloads to builds before v24.00 originate from anymore. Below is a sort of extension of the external links section, and many familiar names will popup.
 - Alberto
 - andr1ww
 - ByZNexus
@@ -143,9 +133,23 @@ However, that isn't where modern day downloads to builds before v24.20 originate
 
 - Unknown (builds.rebootfn.org): v1.7.2-Cert-CL-3700114 - v10.31-CL-8723043
 - Unknown (cdn.cbn.lol): v12.41-CL-12905909, v18.10-CL-17661844 and v18.20-CL-17745267, v20.30-CL-19950687, and v21.20-CL-20978394
-- Unknwon (public-build-archives-bucket.erafn.dev): v5.41-CL-4363240 and v6.21-CL-4526925
+- Unknown (public-build-archives-bucket.erafn.dev): v5.41-CL-4363240 and v6.21-CL-4526925
 - Unknown (public.simplyblk.xyz - Currently Down): Online Test 6.5, v1.7.2-Cert-CL-3700114 - v23.50-CL-24441668
 - Unknown (r2.kovryn.xyz - Currently Down): v23.50-CL-24441668
 - Unknown (r2.ploosh.dev): v15.30-CL-15341163 and v21.00-CL-20463113
 - Unknown (titanac.xyz): v23.50-CL-24441668
 - Varies ([Internet Archive](https://archive.org/)): The Internet Archive has builds from many seasons.
+
+## Tutorials
+- CrashReportClient<sup>(Exceptions: v5.00 - v6.31-CL-4573279, v9.10-CL-6639283, and v11.40-CL-11039906)</sup>
+  - Open `Fortnite\Engine\Binaries\Win64` -> right click CrashReportClient -> Properties -> Details -> Product Version
+  - Open `Fortnite\Engine\Binaries\Win64` -> right click CrashReportClientEditor -> Properties -> Details -> Product Version
+  - Open `Fortnite\Engine\Binaries\Win64` -> double click CrashReportClient -> `C:\Users\{user}\AppData\Local\CrashReportClient\Saved\Logs` -> LogInit: Build:
+- [sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+  - Double click sysinternals
+  - Double click `Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping`
+  - In sysinternals, find and double click `FortniteClient-Win64-Shipping.exe` -> Strings -> Save
+  - In the saved .txt file, search for "-CL"
+    - Must be done quickly if the file opens the Epic Games launcher, closing `FortniteClient-Win64-Shipping.exe`.
+- FortniteClient-Win64-Shipping<sup>(Only v5.21-CL-4288479 - v6.31-CL-4573279)</sup>
+  - Doule click `Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe` -> top middle of the login screen
