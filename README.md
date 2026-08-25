@@ -14,6 +14,10 @@
 - Legendary and Manifest Downloading: [Tutorial](https://drive.google.com/drive/u/0/folders/1NXsfDJEwNBanjWFaLaZH7q3IdY3eKuEE)
 - Viewing Hotfix Files: `C:\Users\{user}\AppData\Local\FortniteGame\Saved\PersistentDownloadDir\EMS`
 - Viewing Build CL: [Tutorial](#tutorials)
+<br/>
+
+- <b>If a build is a developer build, it will never have any download link on my archive, either here on GitHub or on the Internet Archive.</b>
+- <b>If a build is missing a build download link, it is either unavailable or lost.</b>
 
 ## Version Tables
 - The first column is for the "build" which displays the version and it's changelist (CL) from `LogInit: Build:`, obtained from the CrashReportClient log file.
@@ -70,6 +74,7 @@ MacOS Build Archives
 Xbox Build and .xvc Archives
 - [FortniteXboxBuilds - Xader726](https://github.com/Xader726/FortniteXboxBuilds): Online Test 11.0.?-CL-3472997 - Season 38.
 - [fortnite-xbox-one-dumps - somexboxdumps](https://archive.org/download/fortnite-xbox-one-dumps): Online Test 11.0.?-CL-3472997 - Season 10
+- [fortnite-xbox-series-xs - somexboxdumps](https://archive.org/details/fortnite-xbox-series-xs): Unsure
 
 PlayStation Build and .pkg Archives
 - [CUSA07022 - orbispatches](https://orbispatches.com/CUSA07022) (US): Season 0 - Season 39.<sup>.pkg only</sup>
@@ -77,6 +82,7 @@ PlayStation Build and .pkg Archives
 - [FortnitePS4ArchiveBuild - YorhaX2P](https://github.com/YorhaX2P/FortnitePS4ArchiveBuild): Season 0 and Season 1.<sup>.pkg only</sup>
 - [CUSA07574 - orbispatches](https://orbispatches.com/CUSA07574): Download for Online Test 10 / MailApp.<sup>.pkg only</sup>
 - [fortnite-mailapp-ot10 - galaxify](https://archive.org/details/fortnite-mailapp-ot10): Download for Online Test 10 / MailApp
+- [fortnite-ps5-dumps - somexboxdumps](https://archive.org/details/fortnite-ps5-dumps): Varies
 
 Android .apk Archives
 - [FortniteAndroidBuilds - andr1ww](https://github.com/andr1ww/FortniteAndroidBuilds): Season 5 - Season 21.
@@ -99,6 +105,10 @@ Mapping Files
 
 SDKs
 - [Fortnite-SDKs - ggsplayz](https://github.com/ggsplayz/Fortnite-SDKs): Season 4 -Season 18
+
+Asset Packs
+- [fortnite-asset-pack - toilet20](https://archive.org/details/fortnite-asset-pack)
+- [FortniteCreatorAssetPack - Epic Games](https://epicgames.ent.box.com/v/FortniteCreatorAssetPack/folder/262758505855)
 
 ## Credits
 There is a lack of credits here, this isn't because I'm selfish but because the origin of a build varies heavily. Strictly speaking, all builds originate from Epic Games, the developers and publishers of Fortnite. However, that isn't where modern day downloads to builds before v24.00 originate from anymore. Below is a sort of extension of the external links section, and many familiar names will popup.
