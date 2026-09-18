@@ -123,7 +123,7 @@ There is a lack of credits here, this isn't because I'm selfish but because the 
 - Helix-Dev-Q: Their archive mentions more people
 - itztiva
 - Jalen
-- Ka Pum: v19.01-CL-18489740
+- Ka Pum: Provided v19.01-CL-18489740 and more 
 - KPMisParrot
 - LlamaQwerty: Their archive used to mention more people
 - Mast3rGamers
@@ -139,6 +139,7 @@ There is a lack of credits here, this isn't because I'm selfish but because the 
 - VastBlast
 - Xader726
 - YorhaX2P
+- cascaseno: Provided 4.4.x-CL-4132537
 
 
 - Unknown (builds.rebootfn.org): v1.7.2-Cert-CL-3700114 - v10.31-CL-8723043
