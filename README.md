@@ -19,6 +19,8 @@
 - <b>If a build is a developer build, it will never have any download link on my archive, either here on GitHub or on the Internet Archive.</b>
 - <b>If a build is missing a build download link, it is either unavailable or lost.</b>
 
+<hr>
+
 ## Version Tables
 - The first column is for the "build" which displays the version and it's changelist (CL) from `LogInit: Build:`, obtained from the CrashReportClient log file.
 - The second column is for downloads, if available. Downloads are named after what they are downloading.
@@ -32,6 +34,9 @@
   - Any cell that contains a question mark (?) contains information that is incomplete or estimated. Such information, especially without a build download link, should be taken with a grain of salt.
 
 - AES Keys: A key or collection of keys used within FModel to decrypt .pak files.
+
+<hr>
+<details><summary>External Links (Other Archives)</summary>
 
 ## External Links
 All download ranges should be taken with a grain of salt, many builds are lost, unavailable and/or gatekept.
@@ -109,6 +114,10 @@ SDKs
 Asset Packs
 - [fortnite-asset-pack - toilet20](https://archive.org/details/fortnite-asset-pack)
 - [FortniteCreatorAssetPack - Epic Games](https://epicgames.ent.box.com/v/FortniteCreatorAssetPack/folder/262758505855)
+</details>
+
+<hr>
+<details><summary>Credits</summary>
 
 ## Credits
 There is a lack of credits here, this isn't because I'm selfish but because the origin of a build varies heavily. Strictly speaking, all builds originate from Epic Games, the developers and publishers of Fortnite. However, that isn't where modern day downloads to builds before v24.00 originate from anymore. Below is a sort of extension of the external links section, and many familiar names will popup.
@@ -150,6 +159,9 @@ There is a lack of credits here, this isn't because I'm selfish but because the 
 - Unknown (r2.ploosh.dev): v15.30-CL-15341163 and v21.00-CL-20463113
 - Unknown (titanac.xyz): v23.50-CL-24441668
 - Varies ([Internet Archive](https://archive.org/)): The Internet Archive has builds from many seasons.
+</details>
+
+<hr>
 
 ## Tutorials
 - CrashReportClient<sup>(Exceptions: v5.00 - v6.31-CL-4573279, v9.10-CL-6639283, and v11.40-CL-11039906)</sup>
