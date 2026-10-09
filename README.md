@@ -92,10 +92,18 @@ PlayStation Build and .pkg Archives
 Android .apk Archives
 - [FortniteAndroidBuilds - andr1ww](https://github.com/andr1ww/FortniteAndroidBuilds): Season 5 - Season 21.
 
+Android Manifest Archives
+- [FortniteManifestArchive - VastBlast](https://github.com/VastBlast/FortniteManifestArchive): Season 5 - Season 21.
+
 IOS Build and .ipa Archives
+- [Fortnite-iOS-Archive - Alberto](https://github.com/Repressoh/Fortnite-iOS-Archive): Season 3 - Season 13 & Season 30 - Season 34.<sup>.ipa only</sup>
 - [Repressoh - Alberto](https://fn-builds.repressoh.it/IPAs/): Season 3 - Season 13.<sup>.ipa only</sup>
 - [FNiOS-Archive - Crunnie](https://github.com/Crunnie/FNiOS-Archive): Season 3 - Season 13.<sup>.ipa only</sup>
 - [FN-IOS-Archive - mtbr29](https://github.com/mtbr29/FN-IOS-Archive): Season 3 - Season 13.
+
+IOS Manifest Archives
+- [FN-IOS-Archive - mtbr29](https://github.com/mtbr29/FN-IOS-Archive): Season 3 - Season 13.
+- [FortniteManifestArchive - VastBlast](https://github.com/VastBlast/FortniteManifestArchive): Season 3 - Season 13.
 
 Switch .nsp Archives
 - [Repressoh - Alberto](https://fn-builds.repressoh.it/Switch/): Season 4 - Season 19 and Base
