@@ -149,7 +149,7 @@
 | 1.6 |  | 4.16.0-??????? |  | 12/09/2017<sup>[[2](#references)]</sup> |
 | 1.6.1-CL-3603940<sup>[[1](#references)]</sup><sup>[[Source](#sources)]</sup> |  | 4.16.0-??????? |  | ??/09/2017<sup>[[2](#references)]</sup> |
 | 1.6.2-CL-3681159<sup>[[1](#references)]</sup><sup>[[Source](#sources)]</sup> |  | 4.16.0-??????? |  | ??/09/2017<sup>[[2](#references)]</sup> |
-| 1.6.3 |  | 4.16.0-??????? |  | 25/09/2017/09/25<sup>[[2](#references)]</sup> |
+| 1.6.3 |  | 4.16.0-??????? |  | 25/09/2017<sup>[[2](#references)]</sup> |
 | 1.6.4-Cert-CL-3668626 |  | 4.16.0-??????? |  | 29/09/2017<sup>[[2](#references)]</sup> |
 | 1.7-Cert-CL-3681159 |  | 4.16.0-3541083 |  | 04/10/2017<sup>[[2](#references)]</sup> |
 | 1.7.1 |  | 4.16.0-??????? |  | 11/10/2017<sup>[[2](#references)]</sup> |
@@ -221,7 +221,7 @@
 | 3.2-CL-3929794 |  | 4.20.0-3929794 |  | 08/03/2018<sup>[[2](#references)]</sup> |
 | 3.2-CL-3935073 | [Build](https://archive.org/download/fn-v3-archive/builds/3.2-CL-3935073.7z)<sup>[20.70GB, 7.13GB .7z]</sup> | 4.20.0-3935073 | 3924161 | 08/03/2018 |
 | 3.3-CL-3935073 | [Build](https://archive.org/download/fn-v3-archive/builds/3.3-CL-3935073.7z)<sup>[20.70GB, 7.15GB .7z]</sup> | 4.20.0-3942182 | 3939459 | 12/03/2018 |
-| 3.3.1-CL-3948073<sup>[[Source](#Sources)]</sup> |  | 4.20.0-3948073 |  | /03/2018/03/22<sup>[[2](#references)]</sup> |
+| 3.3.1-CL-3948073<sup>[[Source](#Sources)]</sup> |  | 4.20.0-3948073 |  | 22/03/2018<sup>[[2](#references)]</sup> |
 | 3.4-CL-3968866 |  | 4.20.0-3968866 |  | 29/03/2018<sup>[[2](#references)]</sup> |
 | 3.4-CL-3973340 |  | 4.20.0-3973340 |  | 04/04/2018<sup>[[2](#references)]</sup> |
 | 3.5-CL-3994867 |  | 4.20.0-3994867 |  | 11/04/2018<sup>[[2](#references)]</sup> |
@@ -506,9 +506,9 @@
 | 14.10-CL-14276912 | <!-- --> [Manifest](https://archive.org/download/fn-v14-archive/manifests/HhLsZiMFk17s3fY5i0OSBOI8MtsFdA.manifest)<sup>[34.30MB]</sup> | 4.26.0-???????? |  | ??/0?/2020<sup>[[2](#references)]</sup> |
 | 14.10-CL-14288110 | <!-- --> [Manifest](https://archive.org/download/fn-v14-archive/manifests/A5rhLa8WYtEHXXDBu0qY6QjeYRAZBA.manifest)<sup>[34.30MB]</sup> | 4.26.0-???????? |  | ??/0?/2020<sup>[[2](#references)]</sup> |
 | 14.10-CL-14312695 | [Build](https://archive.org/download/fn-v14-archive/builds/14.10-CL-14312695.7z)<sup>[96.50GB, 34.40GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v14-archive/manifests/iOp7OXIvJZsHpe1X6UavQXOryv-3dg.manifest)<sup>[34.30MB]</sup> | 4.26.0-14305421 | 14170054 | 14/09/2020 |
-| 14.20-CL-14354056 | <!-- --> [Manifest](https://archive.org/download/fn-v14-archive/manifests/3EjPigM-G_w7AHCIrUyLHu8t4KWtUA.manifest)<sup>[34.70MB]</sup> | 4.26.0-???????? |  | ??/09/2020<sup>[[2](#references)]</sup> |
-| 14.20-CL-14375974 | <!-- --> [Manifest](https://archive.org/download/fn-v14-archive/manifests/cbEscV3_fQIaHll8QEyadlm1u45o5g.manifest)<sup>[34.70MB]</sup> | 4.26.0-???????? |  | ??/09/2020<sup>[[2](#references)]</sup> |
-| 14.20-CL-14384759 | [Build](https://archive.org/download/fn-v14-archive/builds/14.20-CL-14384759.7z)<sup>[97.40GB, 34.80GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v14-archive/manifests/08opnel1yrNVPmiQFkGQw7aDSvgUKg.manifest)<sup>[34.70MB]</sup> | 4.26.0-14347869 | 14267198 | 20/09/2020 |
+| 14.20-CL-14354056 | [Build](https://archive.org/download/fn-v14-archive/builds/14.20-CL-14354056.7z)<sup>[97.40GB, 34.80GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v14-archive/manifests/3EjPigM-G_w7AHCIrUyLHu8t4KWtUA.manifest)<sup>[34.70MB]</sup> | 4.26.0-14347869 | 14267198 | 20/09/2020 |
+| 14.20-CL-14375974 | <!-- --> [Manifest](https://archive.org/download/fn-v14-archive/manifests/cbEscV3_fQIaHll8QEyadlm1u45o5g.manifest)<sup>[34.70MB]</sup> | 4.26.0-???????? |  | ??/??/2020<sup>[[2](#references)]</sup> |
+| 14.20-CL-14384759 | <!-- --> [Manifest](https://archive.org/download/fn-v14-archive/manifests/08opnel1yrNVPmiQFkGQw7aDSvgUKg.manifest)<sup>[34.70MB]</sup> | 4.26.0-???????? |  | ??/??/2020<sup>[[2](#references)]</sup> |
 | 14.30-CL-14456520 | [Build](https://archive.org/download/fn-v14-archive/builds/14.30-CL-14456520.7z)<sup>[97.60GB, 34.90GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v14-archive/manifests/vSRBaHxfB_kuksWOEk2_PfUPG22MVw.manifest)<sup>[35.10MB]</sup> | 4.26.0-14456520 | 14278346 | 09/10/2020 |
 | 14.40-CL-14512399 | <!-- --> [Manifest](https://archive.org/download/fn-v14-archive/manifests/BQ1lc_hzhBmmkfMkv0i-kBwqATdi0w.manifest)<sup>[10.70MB]</sup> | 4.26.0-???????? |  | ??/10/2020<sup>[[2](#references)]</sup> |
 | 14.40-CL-14550713 | [Build](https://archive.org/download/fn-v14-archive/builds/14.40-CL-14550713.7z)<sup>[31.50GB, 26.40GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v14-archive/manifests/DClI318w-7eAMz2fmUuHgSkAlomU6g.manifest)<sup>[10.80MB]</sup> | 4.26.0-14550552 | 14457889 | 22/10/2020 |
