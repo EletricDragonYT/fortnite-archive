@@ -12,7 +12,7 @@
 <hr>
 
 ## Project Fortress
-- Season: None
+- Season: [None](https://fortnite.weirdgloop.org/w/Project_Fortress)
 - Builds: 0 / 7
 - Manifests: 0
 - Mappings: 0
@@ -45,7 +45,7 @@
 <hr>
 
 ## Online Tests
-- Season: None
+- Season: [None](https://fortnite.weirdgloop.org/w/Online_Tests)
 - Builds: 2 / 45<sup>[2 unconfirmed]</sup><sup>[29.00GB, 9.23GB .7z]</sup>
 - Manifests: 0 / 45
 - Mappings: 0
@@ -78,13 +78,13 @@
 | OT5.2 |  | 4.?.?-??????? |  | 2015/10/08<br/>2015/10/15 |
 | OT5.3 |  | 4.?.?-??????? |  | 2015/10/15<br/>2015/10/27 |
 | OT5.4 |  | 4.?.?-??????? |  | 2015/10/27<br/>2015/11/10 |
-| OT5.5-CL-2760281 | [URL](https://download.epicgames.com/Builds/Fortnite/CloudDir/FortniteReleaseBuilds%2B%2Bdepot%2BUE4-FortniteReleases%2B0.9-CL-2760281-Windows.manifest)<sup>[Inaccesible]</sup> | 4.9.0-2760281 |  | 2015/11/10<br/>2015/11/?? |
+| OT5.5-CL-2760281 | [Manifest URL](https://download.epicgames.com/Builds/Fortnite/CloudDir/FortniteReleaseBuilds%2B%2Bdepot%2BUE4-FortniteReleases%2B0.9-CL-2760281-Windows.manifest)<sup>[Inaccesible]</sup> | 4.9.0-2760281 |  | 2015/11/10<br/>2015/11/?? |
 | OT6-CL-2801990 |  | 4.11.0-2801990 |  | 2015/12/09<br/>2015/12/15 |
 | OT6.1 |  | 4.1?.?-??????? |  | 2015/12/15<br/>2015/12/15 |
 | OT6.2 |  | 4.1?.?-??????? |  | 2015/12/15<br/>2015/12/26 |
 | OT6.3<sup>[[1](#references)]</sup> |  | 4.1?.?-??????? |  | 201?/??/??<br/>201?/??/?? |
 | OT6.4<sup>[[1](#references)]</sup> |  | 4.1?.?-??????? |  | 201?/??/??<br/>201?/??/?? |
-| OT6.5-Live-CL-2870186 | [Build](https://archive.org/download/fn-ot-archive/OT6.5-Live-CL-2870186.7z)<sup>[14.60GB, 4.25GB .7z]</sup> | 4.12.0-2870186 | 2870186 | 17/02/2016 |
+| OT6.5-Live-CL-2870186 | [Build](https://archive.org/download/fn-ot-archive/builds/OT6.5-Live-CL-2870186.7z)<sup>[14.60GB, 4.25GB .7z]</sup> | 4.12.0-2870186 | 2870186 | 17/02/2016 |
 | OT6.6-CL-2898795 |  | 4.12.0-2898795 |  | 2016/03/01<br/>2016/03/22 |
 | OT6.7-CL-2919741 |  | 4.12.0-2919741 |  | 2016/03/22<br/>2016/0?/?? |
 | OT7-CL-3012530 |  | 4.12.0-3012530 |  | 2016/06/14<br/>2016/??/?? |
@@ -104,7 +104,7 @@
 | OT11.1 |  | 4.16.0-??????? |  | 2017/07/07<br/>2017/07/11 |
 | OT11.?-CL-3502004 |  | 4.16.0-3502004 |  | 2017/??/??<br/>2017/??/?? |
 | OT11.?-CL-3502071 |  | 4.16.0-3502071 |  | 2017/??/??<br/>2017/??/?? |
-| OT11.??-Cert-CL-3532353 | [Build](https://archive.org/download/fn-v0-archive/Cert-CL-3532353.7z)<sup>[14.40GB, 4.98GB .7z]</sup> | 4.16.0-3532353 | 3528277 | 11/07/2017 |
+| OT11.??-Cert-CL-3532353 | [Build](https://archive.org/download/fn-v0-archive/builds/Cert-CL-3532353.7z)<sup>[14.40GB, 4.98GB .7z]</sup> | 4.16.0-3532353 | 3528277 | 11/07/2017 |
 
 <hr>
 
@@ -117,7 +117,7 @@
 
 |  | Downloads | UE Version | Net CL | Build Date |
 | - | - | - | - | - |
-| 1.2-Cert-CL-3541083 | [Build](https://archive.org/download/fn-v0-archive/1.2-Cert-CL-3541083.7z)<sup>[14.50GB, 5.05GB .7z]</sup> | 4.16.0-3541083 | 3536423 | 17/07/2017 |
+| 1.2-Cert-CL-3541083 | [Build](https://archive.org/download/fn-v0-archive/builds/1.2-Cert-CL-3541083.7z)<sup>[14.50GB, 5.05GB .7z]</sup> | 4.16.0-3541083 | 3536423 | 17/07/2017 |
 | 1.3<sup>[[1](#references)]</sup> |  | 4.16.0-??????? |  | ??/0?/2017<sup>[[2](#references)]</sup> |
 | 1.4 |  | 4.16.0-??????? |  | 03/08/2017<sup>[[2](#references)]</sup> |
 | 1.4.1 |  | 4.16.0-??????? |  | 08/08/2017<sup>[[2](#references)]</sup> |
@@ -138,7 +138,7 @@
 <hr>
 
 ## Pre-Season
-- Season: Pre-Season
+- Season: [Pre-Season](https://fortnite.weirdgloop.org/w/Pre-Season)
 - Builds: 1 / 8<sup>[2 unconfirmed]</sup><sup>[16.90GB, 5.60GB .7z]</sup>
 - Manifests: 0 / 8
 - Mappings: 0
@@ -153,12 +153,12 @@
 | 1.6.4-Cert-CL-3668626 |  | 4.16.0-??????? |  | 29/09/2017<sup>[[2](#references)]</sup> |
 | 1.7-Cert-CL-3681159 |  | 4.16.0-3541083 |  | 04/10/2017<sup>[[2](#references)]</sup> |
 | 1.7.1 |  | 4.16.0-??????? |  | 11/10/2017<sup>[[2](#references)]</sup> |
-| 1.7.2-Cert-CL-3700114 | [Build](https://archive.org/download/fn-v0-archive/1.7.2-Cert-CL-3700114.7z)<sup>[16.90GB, 5.60GB .7z]</sup> | 4.16.0-3700114 | 3603940 | 17/10/2017 |
+| 1.7.2-Cert-CL-3700114 | [Build](https://archive.org/download/fn-v0-archive/builds/1.7.2-Cert-CL-3700114.7z)<sup>[16.90GB, 5.60GB .7z]</sup> | 4.16.0-3700114 | 3603940 | 17/10/2017 |
 
 <hr>
 
 ## Season 1
-- Season: Season 1
+- Season: [Season 1](https://fortnite.weirdgloop.org/w/Season_1)
 - Builds: 6 / 10<sup>[115.30GB, 38.25GB .7z]</sup>
 - - Hotfixes: 0 / 2
 - Manifests: 0 / 10
@@ -167,23 +167,23 @@
 
 |  | Downloads | UE Version | Net CL | Build Date |
 | - | - | - | - | - |
-| 1.8-2017/10/27<sup>[[Source](#sources)]</sup> |  | 4.16.0-??????? |  | 27/10/2017<sup>[[2](#references)]</sup> |
-| 1.8-Live-CL-3724489 | [Build](https://archive.org/download/fn-v1-archive/1.8-Live-CL-3724489.7z)<sup>[19.30GB, 6.41GB .7z]</sup> | 4.16.0-3724489 | 3709086 | 28/10/2017 |
-| 1.8.1-Cert-CL-3729133 | [Build](https://archive.org/download/fn-v1-archive/1.8.1-Cert-CL-3729133.7z)<sup>[19.30GB, 6.43GB .7z]</sup> | 4.16.0-3729133 | 3603940 | 31/10/2017 |
+| 1.8<sup>[[Source](#sources)]</sup> |  | 4.16.0-??????? |  | 27/10/2017<sup>[[2](#references)]</sup> |
+| 1.8-Live-CL-3724489 | [Build](https://archive.org/download/fn-v1-archive/builds/1.8-Live-CL-3724489.7z)<sup>[19.30GB, 6.41GB .7z]</sup> | 4.16.0-3724489 | 3709086 | 28/10/2017 |
+| 1.8.1-Cert-CL-3729133 | [Build](https://archive.org/download/fn-v1-archive/builds/1.8.1-Cert-CL-3729133.7z)<sup>[19.30GB, 6.43GB .7z]</sup> | 4.16.0-3729133 | 3603940 | 31/10/2017 |
 | 1.8.1-2017/11/04<sup>[[Source](#sources)]</sup> |  | 4.16.0-??????? |  | 04/11/2017<sup>[[2](#references)]</sup> |
-| 1.8.2-Cert-CL-3741772 | [Build](https://archive.org/download/fn-v1-archive/1.8.2-Cert-CL-3741772.7z)<sup>[19.30GB, 6.44GB .7z]</sup> | 4.16.0-3741772 | 3709086 | 07/11/2017 |
+| 1.8.2-Cert-CL-3741772 | [Build](https://archive.org/download/fn-v1-archive/builds/1.8.2-Cert-CL-3741772.7z)<sup>[19.30GB, 6.44GB .7z]</sup> | 4.16.0-3741772 | 3709086 | 07/11/2017 |
 | 1.8.2 (Hotfix)<sup>[[Source](#sources)]</sup> |  | 4.16.0-??????? |  | 10/11/2017<sup>[[2](#references)]</sup> |
-| 1.9-Live-CL-3757339 | [Build](https://archive.org/download/fn-v1-archive/1.9-Live-CL-3757339.7z)<sup>[19.50GB, 6.42GB .7z]</sup> | 4.16.0-3757339 | 3752911 | 14/11/2017 |
+| 1.9-Live-CL-3757339 | [Build](https://archive.org/download/fn-v1-archive/builds/1.9-Live-CL-3757339.7z)<sup>[19.50GB, 6.42GB .7z]</sup> | 4.16.0-3757339 | 3752911 | 14/11/2017 |
 | 1.9.0.1<sup>[[Source](#sources)]</sup> |  | 4.16.0-??????? |  | 16/11/2017<sup>[[2](#references)]</sup> |
 | 1.9.0.1 (Hotfix)<sup>[[Source](#sources)]</sup> |  | 4.16.0-??????? |  | 20/11/2017<sup>[[2](#references)]</sup> |
-| 1.9.1-Cert-CL-3775276 | [Build](https://archive.org/download/fn-v1-archive/1.9.1-Cert-CL-3775276.7z)<sup>[19.40GB, 6.42GB .7z]</sup> | 4.16.0-3775276 | 3752911 | 28/112017 |
+| 1.9.1-Cert-CL-3775276 | [Build](https://archive.org/download/fn-v1-archive/builds/1.9.1-Cert-CL-3775276.7z)<sup>[19.40GB, 6.42GB .7z]</sup> | 4.16.0-3775276 | 3752911 | 28/112017 |
 | ?.?.?-Cert-CL-3785438 |  | 4.16.0-3785438 |  | 02/12/2017<sup>[[2](#references)]</sup> |
-| 1.10-Cert-CL-3790078 | [Build](https://archive.org/download/fn-v1-archive/1.10-Cert-CL-3790078.7z)<sup>[18.50GB, 6.13GB .7z]</sup> | 4.19.0-3790078 | 3785908 | 05/12/2017 |
+| 1.10-Cert-CL-3790078 | [Build](https://archive.org/download/fn-v1-archive/builds/1.10-Cert-CL-3790078.7z)<sup>[18.50GB, 6.13GB .7z]</sup> | 4.19.0-3790078 | 3785908 | 05/12/2017 |
 
 <hr>
 
 ## Season 2
-- Season: Season 2
+- Season: [Season 2](https://fortnite.weirdgloop.org/w/Season_2)
 - Builds: 7 / 12<sup>[128.80GB, 44.37GB .7z]</sup>
 - Manifests: 2 / 12<sup>[14.39MB]</sup>
 - Mappings: 0
@@ -207,7 +207,7 @@
 <hr>
 
 ## Season 3
-- Season: Season 3
+- Season: [Season 3](https://fortnite.weirdgloop.org/w/Season_3)
 - Builds: 8 / 13<sup>[149.80GB, 52.09GB .7z]</sup>
 - Manifests: 2 / 2<sup>[15.12MB]</sup>
 - Mappings: 0
@@ -232,8 +232,8 @@
 <hr>
 
 ## Season 4
-- Season: Season 4
-- Builds: 8 / 11<sup>[180.70GB, 63.68GB .7z]</sup>
+- Season: [Season 4](https://fortnite.weirdgloop.org/w/Season_4)
+- Builds: 9 / 11<sup>[203.80GB, 72.20GB .7z]</sup>
 - Manifests: 2 / 2<sup>[15.74MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-1-season-4-brace-for-impact)
@@ -243,7 +243,7 @@
 | 4.0-CL-4039451 | [Build](https://archive.org/download/fn-v4-archive/builds/4.0-CL-4039451.7z)<sup>[22.10GB, 8.12GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v4-archive/manifests/REvHap8Be76174fe73914ba99a652ef722c0bd8c.manifest)<sup>[7.87MB]</sup> | 4.20.0-4039451 | 4032695 | 29/04/2018 |
 | 4.1-CL-4053532 | [Build](https://archive.org/download/fn-v4-archive/builds/4.1-CL-4053532.7z)<sup>[22.20GB, 8.13GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v4-archive/manifests/LjhtJU7of2d3a380321f4257a791df5f165d1dea.manifest)<sup>[7.87MB]</sup> | 4.20.0-4053532 | 4047718 | 04/05/2018 |
 | 4.2-CL-4072250 | [Build](https://archive.org/download/fn-v4-archive/builds/4.2-CL-4072250.7z)<sup>[23.20GB, 8.33GB .7z]</sup> | 4.20.0-4072250 | 4066866 | 14/05/2018 |
-| 4.3-CL-4095806 |  | 4.20.0-4095806 |  | 30/05/2018<sup>[[2](#references)]</sup> |
+| 4.3-CL-4095806<sup>[[3](#references)]</sup> | [Build](https://archive.org/download/fn-v4-archive/builds/4.3-CL-4095806.7z)<sup>[23.10GB, 8.52GB .7z]</sup> | 4.20.0-4095806 | 4082604 | 26/05/2018 |
 | 4.3-CL-4103483 |  | 4.20.0-4103483 |  | 01/06/2018<sup>[[2](#references)]</sup> |
 | 4.4-CL-4117433 | [Build](https://archive.org/download/fn-v4-archive/builds/4.4-CL-4117433.7z)<sup>[22.20GB, 7.65GB .7z]</sup> | 4.20.0-4117433 | 4108606 | 07/06/2018 |
 | 4.4-CL-4127312 | [Build](https://archive.org/download/fn-v4-archive/builds/4.4-CL-4127312.7z)<sup>[22.30GB, 7.70GB .7z]</sup> | 4.20.0-4127240 | 4108606 | 13/06/2018 |
@@ -255,7 +255,7 @@
 <hr>
 
 ## Season 5
-- Season: Season 5
+- Season: [Season 5](https://fortnite.weirdgloop.org/w/Season_5)
 - Builds: 8 / 14<sup>[199.40GB, 69.70GB .7z]</sup>
 - Manifests: 0
 - Mappings: 0
@@ -281,7 +281,7 @@
 <hr>
 
 ## Season 6
-- Season: Season 6
+- Season: [Season 6](https://fortnite.weirdgloop.org/w/Season_6)
 - Builds: 14 / 18<sup>[414.90GB, 145.63GB .7z]</sup>
 - Manifests: 0
 - Mappings: 0
@@ -311,7 +311,7 @@
 <hr>
 
 ## Season 7
-- Season: Season 7
+- Season: [Season 7](https://fortnite.weirdgloop.org/w/Season_7)
 - Builds: 5 / 12<sup>[185.40GB, 64.80GB .7z]</sup>
 - Manifests: 2<sup>[28.30MB]</sup>
 - Mappings: 0
@@ -335,7 +335,7 @@
 <hr>
 
 ## Season 8
-- Season: Season 8
+- Season: [Season 8](https://fortnite.weirdgloop.org/w/Season_8)
 - Builds: 6 / 17<sup>[273.60GB, 95.00GB .7z]</sup>
 - Manifests: 6<sup>[96.10MB]</sup>
 - Mappings: 0
@@ -364,7 +364,7 @@
 <hr>
 
 ## Season 9
-- Season: Season 9
+- Season: [Season 9](https://fortnite.weirdgloop.org/w/Season_9)
 - Builds: 9 / 12<sup>[462.10GB, 159.50GB .7z]</sup>
 - Manifests: 12 / 12<sup>[221.20MB]</sup>
 - Mappings: 0
@@ -388,7 +388,7 @@
 <hr>
 
 ## Season 10
-- Season: Season X
+- Season: [Season X](https://fortnite.weirdgloop.org/w/Season_X)
 - Builds: 7 / 11<sup>[401.80GB, 140.80GB .7z]</sup>
 - Manifests: 11 / 11<sup>[222.70MB]</sup>
 - Mappings: 0
@@ -411,7 +411,7 @@
 <hr>
 
 ## Season 11
-- Season: Chapter 2: Season 1
+- Season: [Chapter 2: Season 1](https://fortnite.weirdgloop.org/w/Chapter_2:_Season_1)
 - Builds: 11 / 19<sup>[770.80GB, 273.60GB .7z]</sup>
 - Manifests: 19 / 19<sup>[472.70MB]</sup>
 - Mappings: 0
@@ -442,7 +442,7 @@
 <hr>
 
 ## Season 12
-- Season: Chapter 2: Season 2
+- Season: [Chapter 2: Season 2](https://fortnite.weirdgloop.org/w/Chapter_2:_Season_2)
 - Builds: 11 / 18<sup>[893.60GB, 308.30GB .7z]</sup>
 - Manifests: 18 / 18<sup>[515.20MB]</sup>
 - Mappings: 0
@@ -472,7 +472,7 @@
 <hr>
 
 ## Season 13
-- Season: Chapter 2: Season 3
+- Season: [Chapter 2: Season 3](https://fortnite.weirdgloop.org/w/Chapter_2:_Season_3)
 - Builds: 5 / 8<sup>[439.40GB, 153.60GB .7z]</sup>
 - Manifests: 8 / 8<sup>[250.30MB]</sup>
 - Mappings: 0
@@ -492,7 +492,7 @@
 <hr>
 
 ## Season 14
-- Season: Chapter 2: Season 4
+- Season: [Chapter 2: Season 4](https://fortnite.weirdgloop.org/w/Chapter_2:_Season_4)
 - Builds: 7 / 17<sup>[483.50GB, 219.30GB .7z]</sup>
 - Manifests: 17 / 17<sup>[422.00MB]</sup>
 - Mappings: 0
@@ -521,8 +521,8 @@
 <hr>
 
 ## Season 15
-- Season: Chapter 2: Season 5
-- Builds: 6 / 17<sup>[192.20GB, 158.80GB .7z]</sup>
+- Season: [Chapter 2: Season 5](https://fortnite.weirdgloop.org/w/Chapter_2:_Season_5)
+- Builds: 7 / 17<sup>[223.80GB, 185.10GB .7z]</sup>
 - Manifests: 17 / 17<sup>[203.40MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-2-season-5-zero-point)
@@ -532,7 +532,7 @@
 | 15.00-CL-14826719 | <!-- --> [Manifest](https://archive.org/download/fn-v15-archive/manifests/hEC9dL7-jjhVjaT9Ek6g5kPNmfx_oA.manifest)<sup>[11.70MB]</sup> | 4.26.0-???????? |  | ??/1?/2020<sup>[[2](#references)]</sup> |
 | 15.00-CL-14835335 | [Build](https://archive.org/download/fn-v15-archive/builds/15.00-CL-14835335.7z)<sup>[33.70GB, 28.20GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v15-archive/manifests/pxgus3IjKexjBYe8O0qy6lPWTTBxOg.manifest)<sup>[11.70MB]</sup> | 4.26.0-14835335 | 14675470 | 02/12/2020 |
 | 15.10-CL-14904303 | <!-- --> [Manifest](https://archive.org/download/fn-v15-archive/manifests/BW4Td1PSNWngBf-BQEO9orJjii-kyw.manifest)<sup>[11.80MB]</sup> | 4.26.0-???????? |  | ??/??/202?<sup>[[2](#references)]</sup> |
-| 15.10-CL-14937640 | <!-- --> [Manifest](https://archive.org/download/fn-v15-archive/manifests/g0WsAHmkYXL2MsV-lECsXK2PGKZOAQ.manifest)<sup>[11.80MB]</sup> | 4.26.0-???????? |  | ??/??/202?<sup>[[2](#references)]</sup> |
+| 15.10-CL-14937640 | [Build](https://archive.org/download/fn-v15-archive/builds/15.10-CL-14937640.7z)<sup>[31.60GB, 26.30GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v15-archive/manifests/g0WsAHmkYXL2MsV-lECsXK2PGKZOAQ.manifest)<sup>[11.80MB]</sup> | 4.26.0-14936878 | 14652045 | 16/12/2020 |
 | 15.10-CL-15014719 | [Build](https://archive.org/download/fn-v15-archive/builds/15.10-CL-15014719.7z)<sup>[19.60GB, 15.30GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v15-archive/manifests/gFzfWbu3uGpAQMxlskKxadJKCcOafA.manifest)<sup>[11.80MB]</sup> | 4.26.0-15014719 | 14652045 | 07/01/2021 |
 | 15.20-CL-15033494 | <!-- --> [Manifest](https://archive.org/download/fn-v15-archive/manifests/-oaPq13DQ1T7VAH3tUGxunSLza2Xdg.manifest)<sup>[12.00MB]</sup> | 4.26.0-???????? |  | ??/01/2021<sup>[[2](#references)]</sup> |
 | 15.20-CL-15070882 | [Build](https://archive.org/download/fn-v15-archive/builds/15.20-CL-15070882.7z)<sup>[34.70GB, 28.80GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v15-archive/manifests/ZC0C_kRQmlplPnuYMEursbDWqdT4XQ.manifest)<sup>[12.00MB]</sup> | 4.26.0-15070882 | 14945638 | 13/01/2021 |
@@ -550,7 +550,7 @@
 <hr>
 
 ## Season 16
-- Season: Chapter 2: Season 6
+- Season: [Chapter 2: Season 6](https://fortnite.weirdgloop.org/w/Chapter_2:_Season_6)
 - Builds: 7 / 17<sup>[245.20GB, 202.50GB .7z]</sup>
 - Manifests: 17 / 17<sup>[215.10MB]</sup>
 - Mappings: 0
@@ -581,7 +581,7 @@
 <hr>
 
 ## Season 17
-- Season: Chapter 2: Season 7
+- Season: [Chapter 2: Season 7](https://fortnite.weirdgloop.org/w/Chapter_2:_Season_7)
 - Builds: 7 / 13<sup>[255.20GB, 211.60GB .7z]</sup>
 - Manifests: 13 / 13<sup>[111.14MB]</sup>
 - Mappings: 0
@@ -608,7 +608,7 @@
 <hr>
 
 ## Season 18
-- Season: Chapter 2: Season 8
+- Season: [Chapter 2: Season 8](https://fortnite.weirdgloop.org/w/Chapter_2:_Season_8)
 - Builds: 7 / 9<sup>[293.30GB, 243.80GB .7z]</sup>
 - Manifests: 9 / 9<sup>[25.35MB]</sup>
 - Mappings: 0
@@ -631,7 +631,7 @@
 <hr>
 
 ## Season 19
-- Season: Chapter 3: Season 1
+- Season: [Chapter 3: Season 1](https://fortnite.weirdgloop.org/w/Chapter_3:_Season_1)
 - Builds: 7 / 12<sup>[301.60GB, 249.90GB .7z]</sup>
 - Manifests: 12 / 12<sup>[36.48MB]</sup>
 - Mappings: 0
@@ -657,7 +657,7 @@
 <hr>
 
 ## Season 20
-- Season: Chapter 3: Season 2
+- Season: [Chapter 3: Season 2](https://fortnite.weirdgloop.org/w/Chapter_3:_Season_2)
 - Builds: 5 / 10<sup>[174.50GB, 146.20GB .7z]</sup>
 - Manifests: 10 / 10<sup>[23.72MB]</sup>
 - Mappings: 0
@@ -681,7 +681,7 @@
 <hr>
 
 ## Season 21
-- Season: Chapter 3: Season 3
+- Season: [Chapter 3: Season 3](https://fortnite.weirdgloop.org/w/Chapter_3:_Season_3)
 - Builds: 8 / 15<sup>[260.40GB, 218.20GB .7z]</sup>
 - Manifests: 15 / 15<sup>[37.24MB]</sup>
 - Mappings: 0
@@ -709,30 +709,30 @@
 
 <hr>
 
-<!--## Season 22
-- Season: Chapter 3: Season 4
-- Builds: 4 / 10<sup>[GB, GB .7z]</sup>
+## Season 22
+- Season: [Chapter 3: Season 4](https://fortnite.weirdgloop.org/w/Chapter_3:_Season_4)
+- Builds: 5 / 10<sup>[GB, GB .7z]</sup>
 - Manifests: 10 / 10<sup>[MB]</sup>
 - Mappings: 0
 - AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-3-season-4-paradise)
 
 |  | Downloads | UE Version | Net CL | Build Date |
 | - | - | - | - | - |
-| 22.00-CL-22026835 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> | 5.1.0-???????? |  | ??/09/2022<sup>[[2](#references)]</sup> |
-| 22.00-CL-22072684 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> | 5.1.0-???????? |  | ??/09/2022<sup>[[2](#references)]</sup> |
-| 22.00-CL-22107157 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> | 5.1.0-???????? |  | ??/09/2022<sup>[[2](#references)]</sup> |
-| 22.00-CL-22149829 | [Build](https://archive.org/download/fn-v22-archive/builds/22.00-CL-22149829.7z)<sup>[GB, GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> | 5.1.0-22149829 | 21735710 | 23/09/2022 |
-| 22.10-CL-22240570 | [Build](https://archive.org/download/fn-v22-archive/builds/22.10-CL-22240570.7z)<sup>[GB, GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> | 5.1.0-22229201 | 22132010 | 29/09/2022 |
-| 22.10-CL-22429549 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> | 5.1.0-???????? |  | ??/??/2022<sup>[[2](#references)]</sup> |
-| 22.20-CL-22523251 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> | 5.1.0-???????? |  | ??/??/2022<sup>[[2](#references)]</sup> |
-| 22.20-CL-22600409 | [Build](https://archive.org/download/fn-v22-archive/builds/22.20-CL-22600409.7z)<sup>[GB, GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> | 5.1.0-22600409 | 22371775 | 18/10/2022 |
-| 22.30-CL-22803135 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> | 5.1.0-???????? |  | ??/??/2022<sup>[[2](#references)]</sup> |
-| 22.40-CL-23070899 | [Build](https://archive.org/download/fn-v22-archive/builds/22.40-CL-23070899.7z)<sup>[GB, GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v22-archive/manifests/.manifest)<sup>[MB]</sup> | 5.1.0-23070531 | 22935214 | 10/11/2022 |
+| 22.00-CL-22026835 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/p2uWIQyT-J9hCjQkQEGYLcp8HOEbog.manifest)<sup>[2.50MB]</sup> | 5.1.0-???????? |  | ??/09/2022<sup>[[2](#references)]</sup> |
+| 22.00-CL-22072684 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/yN1RChX_YYuE_JfOhkeDj3wNX0d4QQ.manifest)<sup>[2.50MB]</sup> | 5.1.0-???????? |  | ??/09/2022<sup>[[2](#references)]</sup> |
+| 22.00-CL-22107157 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/Na0ceNkEKkNoXeFLRESY-bPav9DoLQ.manifest)<sup>[2.50MB]</sup> | 5.1.0-???????? |  | ??/09/2022<sup>[[2](#references)]</sup> |
+| 22.00-CL-22149829 | [Build](https://archive.org/download/fn-v22-archive/builds/22.00-CL-22149829.7z)<sup>[22.70GB, 18.80GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v22-archive/manifests/IJ6Emy1l3xdA7z-vRkaIztthk9-5mQ.manifest)<sup>[2.50MB]</sup> | 5.1.0-22149829 | 21735710 | 23/09/2022 |
+| 22.10-CL-22240570 | [Build](https://archive.org/download/fn-v22-archive/builds/22.10-CL-22240570.7z)<sup>[22.90GB, 19.00GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v22-archive/manifests/vipEh_Q7IAKU3BYRRUypm2181HYO3g.manifest)<sup>[2.50MB]</sup> | 5.1.0-22229201 | 22132010 | 29/09/2022 |
+| 22.10-CL-22429549 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/qkL_abvEOBJzzDL00kaQ4zkiGJYisg.manifest)<sup>[2.50MB]</sup> | 5.1.0-???????? |  | ??/??/2022<sup>[[2](#references)]</sup> |
+| 22.20-CL-22523251 |  [Manifest](https://archive.org/download/fn-v22-archive/manifests/hhE_Nv0W8dCcTSnDMk6l5T_mfRARQA.manifest)<sup>[2.50MB]</sup> | 5.1.0-???????? |  | ??/??/2022<sup>[[2](#references)]</sup> |
+| 22.20-CL-22600409 | [Build](https://archive.org/download/fn-v22-archive/builds/22.20-CL-22600409.7z)<sup>[36.80GB, 31.00GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v22-archive/manifests/0ImR0jb_0dnUkK5Z6ka0OBkpv7iKsg.manifest)<sup>[2.50MB]</sup> | 5.1.0-22600409 | 22371775 | 18/10/2022 |
+| 22.30-CL-22803135 | [Build](https://archive.org/download/fn-v22-archive/builds/22.30-CL-22803135.7z)<sup>[33.00GB, 30.00GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v22-archive/manifests/DgvMjqMEz8KeBdRCJ0i_Biev3Eb-2Q.manifest)<sup>[2.50MB]</sup> | 5.1.0-22792351 | 22649788 | 27/10/2022 |
+| 22.40-CL-23070899 | [Build](https://archive.org/download/fn-v22-archive/builds/22.40-CL-23070899.7z)<sup>[37.80GB, 31.90GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v22-archive/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest)<sup>[2.62MB]</sup> | 5.1.0-23070531 | 22935214 | 10/11/2022 |
 
 <hr>
 
-## Season 23
-- Season: Chapter 4: Season 1
+<!--## Season 23
+- Season: [Chapter 4: Season 1](https://fortnite.weirdgloop.org/w/Chapter_4:_Season_1)
 - Builds: 8 / 10<sup>[GB, GB .7z]</sup>
 - Manifests: 10 / 10<sup>[MB]</sup>
 - Mappings: 0
@@ -754,7 +754,7 @@
 <hr>
 
 ## Season 24
-- Season: Chapter 4: Season 2
+- Season: [Chapter 4: Season 2](https://fortnite.weirdgloop.org/w/Chapter_4:_Season_2)
 - Builds: 13/14<sup>[694.2GB, 539.2GB .7z]</sup>
 - Manifests: 14/14<sup>[48.22MB]</sup>
 - Mappings: 0
@@ -782,7 +782,7 @@
 <hr>
 
 ## Season 25
-- Season: Chapter 4: Season 3
+- Season: [Chapter 4: Season 3](https://fortnite.weirdgloop.org/w/Chapter_4:_Season_3)
 - Builds: 7 / 7<sup>[GB, GB .7z]</sup>
 - Manifests: 7 / 7<sup>[31.11MB]</sup>
 - Mappings: 0
@@ -801,7 +801,7 @@
 <hr>
 
 <!--## Season 26
-- Season: Chapter 4: Season 4
+- Season: [Chapter 4: Season 4](https://fortnite.weirdgloop.org/w/Chapter_4:_Season_4)
 - Builds: 0 / 6<sup>[GB, GB .7z]</sup>
 - Manifests: 6 / 6<sup>[MB]</sup>
 - Mappings: 0
@@ -819,7 +819,7 @@
 <hr>
 
 ## Season 27
-- Season: Chapter 4: Season OG
+- Season: [Chapter 4: Season OG](https://fortnite.weirdgloop.org/w/Chapter_4:_Season_OG)
 - Builds: 0 / 3<sup>[GB, GB .7z]</sup>
 - Manifests: 3 / 3<sup>[MB]</sup>
 - Mappings: 0
@@ -836,7 +836,7 @@
 <hr>
 
 ## Season 28
-- Season: Chapter 5: Season 1
+- Season: [Chapter 5: Season 1](https://fortnite.weirdgloop.org/w/Chapter_5:_Season_1)
 - Builds: 0 / 8<sup>[GB, GB .7z]</sup>
 - Manifests: 8 / 8<sup>[MB]</sup>
 - Mappings: 0
@@ -856,7 +856,7 @@
 <hr>
 
 ## Season 29
-- Season: Chapter 5: Season 2
+- Season: [Chapter 5: Season 2](https://fortnite.weirdgloop.org/w/Chapter_5:_Season_2)
 - Builds: 0 / 10<sup>[GB, GB .7z]</sup>
 - Manifests: 10 / 10<sup>[MB]</sup>
 - Mappings: 0
@@ -878,7 +878,7 @@
 <hr>
 
 ## Season 30
-- Season: Chapter 5: Season 3
+- Season: [Chapter 5: Season 3](https://fortnite.weirdgloop.org/w/Chapter_5:_Season_3)
 - Builds: 0 / 9<sup>[GB, GB .7z]</sup>
 - Manifests: 9 / 9<sup>[MB]</sup>
 - Mappings: 0
@@ -899,7 +899,7 @@
 <hr>
 
 ## Season 31
-- Season: Chapter 5: Season 4
+- Season: [Chapter 5: Season 4](https://fortnite.weirdgloop.org/w/Chapter_5:_Season_4)
 - Builds: 0 / 8<sup>[GB, GB .7z]</sup>
 - Manifests: 8 / 8<sup>[MB]</sup>
 - Mappings: 0
@@ -919,7 +919,7 @@
 <hr>
 
 ## Season 32
-- Season: Chapter 2 Remix
+- Season: [Chapter 2 Remix](https://fortnite.weirdgloop.org/w/Chapter_2_Remix)
 - Builds: 0 / 5<sup>[GB, GB .7z]</sup>
 - Manifests: 5 / 5<sup>[MB]</sup>
 - Mappings: 0
@@ -936,7 +936,7 @@
 <hr>
 
 ## Season 33
-- Season: Chapter 6: Season 1
+- Season: [Chapter 6: Season 1](https://fortnite.weirdgloop.org/w/Chapter_6:_Season_1)
 - Builds: 0 / 8<sup>[GB, GB .7z]</sup>
 - Manifests: 8 / 8<sup>[MB]</sup>
 - Mappings: 0
@@ -956,7 +956,7 @@
 <hr>
 
 ## Season 34
-- Season: Chapter 6: Season 2
+- Season: [Chapter 6: Season 2](https://fortnite.weirdgloop.org/w/Chapter_6:_Season_2)
 - Builds: 0 / 10<sup>[GB, GB .7z]</sup>
 - Manifests: 10 / 10<sup>[MB]</sup>
 - Mappings: 0
@@ -978,7 +978,7 @@
 <hr>
 
 ## Season 35
-- Season: Chapter 6: Mini-Season 1<sup>[Galactic Battle]</sup>
+- Season: [Chapter 6: Mini Season 1<sup>[Galactic Battle]</sup>](https://fortnite.weirdgloop.org/w/Chapter_6:_Mini_Season_1)
 - Builds: 0 / 6<sup>[GB, GB .7z]</sup>
 - Manifests: 6 / 6<sup>[MB]</sup>
 - Mappings: 0
@@ -996,7 +996,7 @@
 <hr>
 
 ## Season 36
-- Season: Chapter 6: Season 3
+- Season: [Chapter 6: Season 3](https://fortnite.weirdgloop.org/w/Chapter_6:_Season_3)
 - Builds: 0 / 8<sup>[GB, GB .7z]</sup>
 - Manifests: 8 / 8<sup>[MB]</sup>
 - Mappings: 0
@@ -1016,7 +1016,7 @@
 <hr>
 
 ## Season 37
-- Season: Chapter 6: Season 4
+- Season: [Chapter 6: Season 4](https://fortnite.weirdgloop.org/w/Chapter_6:_Season_4)
 - Builds: 0 / 11<sup>[GB, GB .7z]</sup>
 - Manifests: 11 / 11<sup>[MB]</sup>
 - Mappings: 0
@@ -1039,7 +1039,7 @@
 <hr>
 
 ## Season 38
-- Season: Chapter 6: Mini-Season 2
+- Season: [Chapter 6: Mini Season 2](https://fortnite.weirdgloop.org/w/Chapter_6:_Mini_Season_2)
 - Builds: 0 / 4<sup>[GB, GB .7z]</sup>
 - Manifests: 4 / 4<sup>[MB]</sup>
 - Mappings: 0
@@ -1055,7 +1055,7 @@
 <hr>
 
 ## Season 39
-- Season: Chapter 7: Season 1
+- Season: [Chapter 7: Season 1](https://fortnite.weirdgloop.org/w/Chapter_7:_Season_`)
 - Builds: 0 / 13<sup>[GB, GB .7z]</sup>
 - Manifests: 13 / 13<sup>[MB]</sup>
 - Mappings: 0
@@ -1080,7 +1080,7 @@
 <hr>
 
 ## Season 40
-- Season: Chapter 7: Season 2
+- Season: [Chapter 7: Season 2](https://fortnite.weirdgloop.org/w/Chapter_7:_Season_2)
 - Builds: 0 / 8<sup>[GB, GB .7z]</sup>
 - Manifests: 8 / 8<sup>[MB]</sup>
 - Mappings: 0
@@ -1100,7 +1100,7 @@
 <hr>
 
 ## Season 41
-- Season: Chapter 7: Season 3
+- Season: [Chapter 7: Season 3](https://fortnite.weirdgloop.org/w/Chapter_7:_Season_3)
 - Builds: 0 / 8<sup>[GB, GB .7z]</sup>
 - Manifests: 8 / 8<sup>[MB]</sup>
 - Mappings: 0
@@ -1120,7 +1120,7 @@
 <hr>
 
 ## Season 42
-- Season: Chapter 7: Season 4
+- Season: [Chapter 7: Season 4](https://fortnite.weirdgloop.org/w/Chapter_7:_Season_4)
 - Builds: 0 / 1<sup>[GB, GB .7z]</sup>
 - Manifests: 1 / 1<sup>[MB]</sup>
 - Mappings: 0
@@ -1133,20 +1133,22 @@
 
 <hr>
 
-## Season _replace_
-- Season: Chapter _replaceChapter_: Season _replaceSeason_
+## Season 
+- Season: [Chapter _replaceChapter_: Season ](https://fortnite.weirdgloop.org/w/Chapter_:_Season_)
 - Builds: 0 / 0<sup>[GB, GB .7z]</sup>
 - Manifests: 0 / 0<sup>[MB]</sup>
 - Mappings: 0
-- AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter-_replaceChapter_-season-_replaceSeason_-)
+- AES Keys: [Archive](https://github.com/dippyshere/fortnite-aes-archive/blob/master/archive/readme.md#chapter- -season- -)
 
 |  | Downloads | UE Version | Net CL | Build Date |
 | - | - | - | - | - |
-|  | [Build](https://archive.org/download/fn-v_replace_-archive/builds/.7z)<sup>[GB, GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v_replace_-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |-->
+|  | [Build](https://archive.org/download/fn-v-archive/builds/.7z)<sup>[GB, GB .7z]</sup> <br/> [Manifest](https://archive.org/download/fn-v-archive/manifests/.manifest)<sup>[MB]</sup> |  |  |  |-->
 
 # References
 1. This build is only speculated to have existed.
 2. This is unconfirmed information since the build is missing, unavailable, or another reason.
+3. This build has missing or incomplete files/binaries which may prevent it from being executed or used in certain cases.
+   1. Not to be confused with a lack of HD-Textures.
 
 # Sources
 1. UE3 Base Building Demo (Internal GameJam): [YouTube](https://www.youtube.com/watch?v=x2rS_ltmJ0Q&t=1102s)
